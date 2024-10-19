@@ -1,0 +1,2341 @@
+code,name,type,parent_code
+00010000,Abington,Public School District,
+00010001,Abington Early Education Program,Public School,00010000
+00010015,Woodsdale Elementary School,Public School,00010000
+00010020,Beaver Brook Elementary,Public School,00010000
+00010405,Abington Middle School,Public School,00010000
+00010505,Abington High,Public School,00010000
+00020000,Acton (non-op),Public School District,
+00030000,Acushnet,Public School District,
+00030025,Acushnet Elementary School,Public School,00030000
+00030305,Albert F Ford Middle School,Public School,00030000
+00040000,Adams (non-op),Public School District,
+00050000,Agawam,Public School District,
+00050003,Agawam Early Childhood Center,Public School,00050000
+00050010,Clifford M Granger,Public School,00050000
+00050020,Benjamin J Phelps,Public School,00050000
+00050025,William P. Sapelli Elementary,Public School,00050000
+00050030,James Clark School,Public School,00050000
+00050303,Roberta G. Doering School,Public School,00050000
+00050405,Agawam Junior High,Public School,00050000
+00050505,Agawam High,Public School,00050000
+00060000,Alford (non-op),Public School District,
+00070000,Amesbury,Public School District,
+00070005,Shay Elementary,Public School,00070000
+00070010,Charles C Cashman Elementary,Public School,00070000
+00070013,Amesbury Middle,Public School,00070000
+00070505,Amesbury High,Public School,00070000
+00070515,Amesbury Innovation High School,Public School,00070000
+00080000,Amherst,Public School District,
+00080009,Crocker Farm Elementary,Public School,00080000
+00080020,Fort River Elementary,Public School,00080000
+00080050,Wildwood Elementary,Public School,00080000
+00090000,Andover,Public School District,
+00090003,Bancroft Elementary,Public School,00090000
+00090004,High Plain Elementary,Public School,00090000
+00090005,Shawsheen School,Public School,00090000
+00090010,Henry C Sanborn Elementary,Public School,00090000
+00090020,South Elementary,Public School,00090000
+00090025,West Elementary,Public School,00090000
+00090305,Doherty Middle,Public School,00090000
+00090310,Andover West Middle,Public School,00090000
+00090350,Wood Hill Middle School,Public School,00090000
+00090505,Andover High,Public School,00090000
+00100000,Arlington,Public School District,
+00100005,John A Bishop,Public School,00100000
+00100010,Brackett,Public School,00100000
+00100025,Cyrus E Dallin,Public School,00100000
+00100030,Hardy,Public School,00100000
+00100038,Menotomy Preschool,Public School,00100000
+00100045,Peirce,Public School,00100000
+00100050,Thompson,Public School,00100000
+00100055,M Norcross Stratton,Public School,00100000
+00100305,Gibbs School,Public School,00100000
+00100410,Ottoson Middle,Public School,00100000
+00100505,Arlington High,Public School,00100000
+00110000,Ashburnham (non-op),Public School District,
+00120000,Ashby (non-op),Public School District,
+00130000,Ashfield (non-op),Public School District,
+00140000,Ashland,Public School District,
+00140005,William Pittaway Elementary,Public School,00140000
+00140010,Henry E Warren Elementary,Public School,00140000
+00140015,David Mindess,Public School,00140000
+00140405,Ashland Middle,Public School,00140000
+00140505,Ashland High,Public School,00140000
+00150000,Athol (non-op),Public School District,
+00160000,Attleboro,Public School District,
+00160001,A. Irvin Studley Elementary School,Public School,00160000
+00160008,Early Learning Center,Public School,00160000
+00160035,Thomas Willett Elementary School,Public School,00160000
+00160040,Hyman Fine Elementary School,Public School,00160000
+00160045,Hill-Roberts Elementary School,Public School,00160000
+00160050,Peter Thacher Elementary School,Public School,00160000
+00160305,Robert J. Coelho Middle School,Public School,00160000
+00160315,Cyril K. Brennan Middle School,Public School,00160000
+00160320,Wamsutta Middle School,Public School,00160000
+00160505,Attleboro High,Public School,00160000
+00160515,Attleboro Community Academy,Public School,00160000
+00160705,Attleboro Virtual Academy,Public School,00160000
+00170000,Auburn,Public School District,
+00170010,Bryn Mawr,Public School,00170000
+00170025,Pakachoag School,Public School,00170000
+00170030,Swanson Road Intermediate School,Public School,00170000
+00170305,Auburn Middle,Public School,00170000
+00170505,Auburn Senior High,Public School,00170000
+00180000,Avon,Public School District,
+00180010,Ralph D Butler,Public School,00180000
+00180510,Avon Middle High School,Public School,00180000
+00190000,Ayer (non-op),Public School District,
+00200000,Barnstable,Public School District,
+00200001,Enoch Cobb Early Learning Center,Public School,00200000
+00200005,West Barnstable Elementary,Public School,00200000
+00200010,Centerville Elementary,Public School,00200000
+00200012,Barnstable Community Innovation School,Public School,00200000
+00200025,Hyannis West Elementary,Public School,00200000
+00200045,West Villages Elementary School,Public School,00200000
+00200050,Barnstable United Elementary School,Public School,00200000
+00200315,Barnstable Intermediate School,Public School,00200000
+00200505,Barnstable High,Public School,00200000
+00210000,Barre (non-op),Public School District,
+00220000,Becket (non-op),Public School District,
+00230000,Bedford,Public School District,
+00230010,Lt Eleazer Davis,Public School,00230000
+00230012,Lt Job Lane School,Public School,00230000
+00230305,John Glenn Middle,Public School,00230000
+00230505,Bedford High,Public School,00230000
+00240000,Belchertown,Public School District,
+00240005,Cold Spring,Public School,00240000
+00240006,Chestnut Hill Community School,Public School,00240000
+00240018,Swift River Elementary,Public School,00240000
+00240025,Jabish Middle School,Public School,00240000
+00240505,Belchertown High,Public School,00240000
+00250000,Bellingham,Public School District,
+00250020,Joseph F DiPietro Elementary School,Public School,00250000
+00250025,Stall Brook,Public School,00250000
+00250315,Bellingham Memorial School,Public School,00250000
+00250505,Bellingham High School,Public School,00250000
+00250510,Keough Memorial Academy,Public School,00250000
+00260000,Belmont,Public School District,
+00260005,Winn Brook,Public School,00260000
+00260010,Mary Lee Burbank,Public School,00260000
+00260015,Daniel Butler,Public School,00260000
+00260035,Roger E Wellington,Public School,00260000
+00260305,Winthrop L Chenery Upper Elementary,Public School,00260000
+00260315,Belmont Middle School,Public School,00260000
+00260505,Belmont High,Public School,00260000
+00270000,Berkley,Public School District,
+00270010,Berkley Community School,Public School,00270000
+00270305,Berkley Middle School,Public School,00270000
+00280000,Berlin (non-op),Public School District,
+00290000,Bernardston (non-op),Public School District,
+00300000,Beverly,Public School District,
+00300002,McKeown School,Public School,00300000
+00300010,Centerville Elementary,Public School,00300000
+00300015,Cove Elementary,Public School,00300000
+00300033,Hannah Elementary,Public School,00300000
+00300040,North Beverly Elementary,Public School,00300000
+00300055,Ayers/Ryal Side School,Public School,00300000
+00300305,Beverly Middle School,Public School,00300000
+00300505,Beverly High,Public School,00300000
+00310000,Billerica,Public School District,
+00310005,Thomas Ditson,Public School,00310000
+00310007,Frederick J Dutile,Public School,00310000
+00310012,John F Kennedy,Public School,00310000
+00310015,Parker,Public School,00310000
+00310026,Hajjar Elementary,Public School,00310000
+00310305,Marshall Middle School,Public School,00310000
+00310310,Locke Middle,Public School,00310000
+00310505,Billerica Memorial High School,Public School,00310000
+00320000,Blackstone (non-op),Public School District,
+00330000,Blandford (non-op),Public School District,
+00340000,Bolton (non-op),Public School District,
+00350000,Boston,Public School District,
+00350001,Lee Academy,Public School,00350000
+00350003,Baldwin Early Learning Pilot Academy,Public School,00350000
+00350004,Lyon K-8 School,Public School,00350000
+00350006,West Zone Early Learning Center,Public School,00350000
+00350008,Ellison-Parks Early Education School,Public School,00350000
+00350009,East Boston Early Education Center,Public School,00350000
+00350010,Haynes Early Education Center,Public School,00350000
+00350012,Boston Teachers Union K-8 Pilot,Public School,00350000
+00350014,Shaw-Taylor Elementary School,Public School,00350000
+00350015,Higginson Inclusion K0-2 School,Public School,00350000
+00350016,Mattahunt Elementary School,Public School,00350000
+00350020,Curley K-8 School,Public School,00350000
+00350021,Beethoven Elementary School,Public School,00350000
+00350036,Carter School,Public School,00350000
+00350052,Sumner Elementary School,Public School,00350000
+00350062,Guild Elementary School,Public School,00350000
+00350066,Alighieri Dante Montessori School,Public School,00350000
+00350072,Ellis Elementary School,Public School,00350000
+00350074,Dearborn 6-12 STEM Academy,Public School,00350000
+00350077,Haley Pilot School,Public School,00350000
+00350080,McKay K-8 School,Public School,00350000
+00350088,Everett Elementary School,Public School,00350000
+00350096,Eliot K-8 Innovation School,Public School,00350000
+00350100,Mendell Elementary School,Public School,00350000
+00350116,Roosevelt K-8 School,Public School,00350000
+00350122,Conley Elementary School,Public School,00350000
+00350135,Grew Elementary School,Public School,00350000
+00350138,Holmes Elementary School,Public School,00350000
+00350141,O'Donnell Elementary School,Public School,00350000
+00350146,Condon K-8 School,Public School,00350000
+00350153,Hennigan K-8 School,Public School,00350000
+00350154,Chittick Elementary School,Public School,00350000
+00350156,Otis Elementary School,Public School,00350000
+00350166,Kennedy John F Elementary School,Public School,00350000
+00350167,UP Academy Holland,Public School,00350000
+00350172,Philbrick Elementary School,Public School,00350000
+00350180,Winthrop Elementary School,Public School,00350000
+00350181,Tynan Elementary School,Public School,00350000
+00350182,Hurley K-8 School,Public School,00350000
+00350183,Lee K-8 School,Public School,00350000
+00350184,Manning Elementary School,Public School,00350000
+00350190,Kilmer K-8 School,Public School,00350000
+00350200,Harvard-Kent Elementary School,Public School,00350000
+00350215,Bradley Elementary School,Public School,00350000
+00350227,Mather Elementary School,Public School,00350000
+00350229,Tobin K-8 School,Public School,00350000
+00350231,Perkins Elementary School,Public School,00350000
+00350237,Mozart Elementary School,Public School,00350000
+00350240,Murphy K-8 School,Public School,00350000
+00350243,Hale Elementary School,Public School,00350000
+00350255,Perry Elementary School,Public School,00350000
+00350257,Orchard Gardens K-8 School,Public School,00350000
+00350258,Ohrenberger School,Public School,00350000
+00350262,Lyndon K-8 School,Public School,00350000
+00350264,Kennedy Patrick J Elementary School,Public School,00350000
+00350266,Henderson K-12 Inclusion School Lower,Public School,00350000
+00350268,Dever Elementary School,Public School,00350000
+00350278,Bates Elementary School,Public School,00350000
+00350286,Quincy Elementary School,Public School,00350000
+00350298,Clap Elementary School,Public School,00350000
+00350302,Adams Elementary School,Public School,00350000
+00350304,Mason Elementary School,Public School,00350000
+00350308,Greenwood Sarah K-8 School,Public School,00350000
+00350326,Gardner Pilot Academy,Public School,00350000
+00350328,Kenny Elementary School,Public School,00350000
+00350346,Warren-Prescott K-8 School,Public School,00350000
+00350360,Channing Elementary School,Public School,00350000
+00350363,Melvin H. King South End Academy,Public School,00350000
+00350366,Russell Elementary School,Public School,00350000
+00350370,Trotter Elementary School,Public School,00350000
+00350374,Winship Elementary School,Public School,00350000
+00350375,Edison Elementary School,Public School,00350000
+00350376,King Elementary School,Public School,00350000
+00350377,Higginson-Lewis K-8 School,Public School,00350000
+00350378,Mildred Avenue K-8 School,Public School,00350000
+00350380,Young Achievers K-8 School,Public School,00350000
+00350383,Frederick Pilot Middle School,Public School,00350000
+00350390,Blackstone Elementary School,Public School,00350000
+00350426,Henderson K-12 Inclusion School Upper,Public School,00350000
+00350505,Brighton High School,Public School,00350000
+00350507,Boston International High School & Newcomers Academy,Public School,00350000
+00350515,Charlestown High School,Public School,00350000
+00350518,Community Academy,Public School,00350000
+00350522,Excel High School,Public School,00350000
+00350525,Albert D Holland School of Technology,Public School,00350000
+00350530,East Boston High School,Public School,00350000
+00350535,English High School,Public School,00350000
+00350537,Madison Park Technical Vocational High School,Public School,00350000
+00350540,Fenway High School,Public School,00350000
+00350541,Another Course To College,Public School,00350000
+00350542,New Mission High School,Public School,00350000
+00350543,Greater Egleston High School,Public School,00350000
+00350545,Boston Latin Academy,Public School,00350000
+00350546,Boston Arts Academy,Public School,00350000
+00350548,Boston Adult Tech Academy,Public School,00350000
+00350549,Margarita Muniz Academy,Public School,00350000
+00350558,Ruth Batson Academy,Public School,00350000
+00350560,Boston Latin School,Public School,00350000
+00350565,Quincy Upper School,Public School,00350000
+00350575,O'Bryant School of Math & Science,Public School,00350000
+00350581,Community Academy of Science and Health,Public School,00350000
+00350655,Lyon High School,Public School,00350000
+00350656,Mario Umana Academy,Public School,00350000
+00350657,TechBoston Academy,Public School,00350000
+00350690,Snowden International High School,Public School,00350000
+00350691,Hernandez K-8 School,Public School,00350000
+00350750,Horace Mann School for the Deaf Hard of Hearing,Public School,00350000
+00350755,Boston Collaborative High School,Public School,00350000
+00360000,Bourne,Public School District,
+00360005,Bournedale Elementary School,Public School,00360000
+00360030,Bourne Intermediate School,Public School,00360000
+00360325,Bourne Middle School,Public School,00360000
+00360505,Bourne High School,Public School,00360000
+00370000,Boxborough (non-op),Public School District,
+00380000,Boxford,Public School District,
+00380005,Harry Lee Cole,Public School,00380000
+00380013,Spofford Pond,Public School,00380000
+00390000,Boylston (non-op),Public School District,
+00400000,Braintree,Public School District,
+00400005,Hollis,Public School,00400000
+00400015,Highlands,Public School,00400000
+00400020,Mary E Flaherty School,Public School,00400000
+00400025,Liberty,Public School,00400000
+00400033,Archie T Morrison,Public School,00400000
+00400050,Donald Ross,Public School,00400000
+00400305,East Middle School,Public School,00400000
+00400310,South Middle School,Public School,00400000
+00400505,Braintree High,Public School,00400000
+00410000,Brewster,Public School District,
+00410005,Stony Brook Elementary,Public School,00410000
+00410010,Eddy Elementary,Public School,00410000
+00420000,Bridgewater (non-op),Public School District,
+00430000,Brimfield,Public School District,
+00430005,Brimfield Elementary,Public School,00430000
+00440000,Brockton,Public School District,
+00440001,Dr W Arnone Community School,Public School,00440000
+00440002,Mary E. Baker School,Public School,00440000
+00440003,Manthala George Jr. School,Public School,00440000
+00440008,Barrett Russell Early Childhood Center,Public School,00440000
+00440010,Brookfield,Public School,00440000
+00440017,John F Kennedy,Public School,00440000
+00440023,Edgar B Davis,Public School,00440000
+00440045,Hancock,Public School,00440000
+00440055,Gilmore Elementary School,Public School,00440000
+00440065,Louis F Angelo Elementary,Public School,00440000
+00440078,Oscar F Raymond,Public School,00440000
+00440110,Downey,Public School,00440000
+00440400,Brockton Therapeutic Day School,Public School,00440000
+00440405,East Middle School,Public School,00440000
+00440410,North Middle School,Public School,00440000
+00440415,South Middle School,Public School,00440000
+00440420,West Middle School,Public School,00440000
+00440421,Ashfield Middle School,Public School,00440000
+00440422,Plouffe Middle School,Public School,00440000
+00440505,Brockton High,Public School,00440000
+00440520,Edison Evening Academy,Public School,00440000
+00440525,PROMISE College and Career Academy,Public School,00440000
+00440535,Champion High School,Public School,00440000
+00440705,Brockton Virtual Learning Academy,Public School,00440000
+00450000,Brookfield,Public School District,
+00450005,Brookfield Elementary,Public School,00450000
+00460000,Brookline,Public School District,
+00460001,Brookline Early Education Program at Beacon,Public School,00460000
+00460002,Brookline Early Education Program at Putterham,Public School,00460000
+00460005,Edith C Baker,Public School,00460000
+00460015,Florida Ruffin Ridley School,Public School,00460000
+00460020,Michael Driscoll,Public School,00460000
+00460025,Roland Hayes,Public School,00460000
+00460030,Lawrence,Public School,00460000
+00460035,William H Lincoln,Public School,00460000
+00460040,Pierce,Public School,00460000
+00460045,John D Runkle,Public School,00460000
+00460060,The Lynch Center,Public School,00460000
+00460505,Brookline High,Public School,00460000
+00470000,Buckland (non-op),Public School District,
+00480000,Burlington,Public School District,
+00480007,Fox Hill,Public School,00480000
+00480015,Memorial,Public School,00480000
+00480020,Pine Glen Elementary,Public School,00480000
+00480035,Francis Wyman Elementary,Public School,00480000
+00480303,Marshall Simonds Middle,Public School,00480000
+00480505,Burlington High,Public School,00480000
+00490000,Cambridge,Public School District,
+00490005,Maria L. Baldwin,Public School,00490000
+00490006,Amigos School,Public School,00490000
+00490007,Cambridgeport,Public School,00490000
+00490020,Haggerty,Public School,00490000
+00490030,Martin Luther King Jr.,Public School,00490000
+00490035,King Open,Public School,00490000
+00490040,Kennedy-Longfellow,Public School,00490000
+00490045,Morse,Public School,00490000
+00490050,Peabody,Public School,00490000
+00490065,John M Tobin,Public School,00490000
+00490080,Graham and Parks,Public School,00490000
+00490090,Fletcher/Maynard Academy,Public School,00490000
+00490305,Cambridge Street Upper School,Public School,00490000
+00490310,Putnam Avenue Upper School,Public School,00490000
+00490315,Rindge Avenue Upper School,Public School,00490000
+00490320,Vassal Lane Upper School,Public School,00490000
+00490506,Cambridge Rindge and Latin,Public School,00490000
+00500000,Canton,Public School District,
+00500010,Rodman Early Childhood Center,Public School,00500000
+00500012,Lt Peter M Hansen,Public School,00500000
+00500017,John F Kennedy,Public School,00500000
+00500020,Dean S Luce,Public School,00500000
+00500305,Wm H Galvin Middle,Public School,00500000
+00500505,Canton High,Public School,00500000
+00510000,Carlisle,Public School District,
+00510025,Carlisle School,Public School,00510000
+00520000,Carver,Public School District,
+00520015,Carver Elementary School,Public School,00520000
+00520405,Carver Middle/High School,Public School,00520000
+00530000,Charlemont (non-op),Public School District,
+00540000,Charlton (non-op),Public School District,
+00550000,Chatham (non-op),Public School District,
+00560000,Chelmsford,Public School District,
+00560001,Community Education Center,Public School,00560000
+00560005,Center Elementary School,Public School,00560000
+00560015,South Row,Public School,00560000
+00560025,Charles D Harrington,Public School,00560000
+00560030,Byam School,Public School,00560000
+00560305,Col Moses Parker School,Public School,00560000
+00560310,McCarthy Middle School,Public School,00560000
+00560505,Chelmsford High,Public School,00560000
+00570000,Chelsea,Public School District,
+00570003,Shurtleff Early Childhood,Public School,00570000
+00570025,William A Berkowitz Elementary,Public School,00570000
+00570030,Edgar F. Hooks Elementary,Public School,00570000
+00570035,George F. Kelly Elementary,Public School,00570000
+00570040,Frank M Sokolowski Elementary,Public School,00570000
+00570045,Eugene Wright Science and Technology Academy,Public School,00570000
+00570050,Clark Avenue School,Public School,00570000
+00570055,Joseph A. Browne School,Public School,00570000
+00570505,Chelsea High,Public School,00570000
+00570515,Chelsea Opportunity Academy,Public School,00570000
+00570705,Chelsea Virtual Learning Academy,Public School,00570000
+00580000,Cheshire (non-op),Public School District,
+00590000,Chester (non-op),Public School District,
+00600000,Chesterfield (non-op),Public School District,
+00610000,Chicopee,Public School District,
+00610001,Szetela Early Childhood Center,Public School,00610000
+00610003,Barry,Public School,00610000
+00610010,Belcher,Public School,00610000
+00610015,Bowe,Public School,00610000
+00610020,Bowie,Public School,00610000
+00610021,Chicopee Academy,Public School,00610000
+00610022,Litwin,Public School,00610000
+00610040,Lambert-Lavoie,Public School,00610000
+00610050,Fairview Elementary,Public School,00610000
+00610065,Streiber Memorial School,Public School,00610000
+00610090,Gen John J Stefanik,Public School,00610000
+00610305,Bellamy Middle,Public School,00610000
+00610310,Dupont Middle,Public School,00610000
+00610505,Chicopee High,Public School,00610000
+00610510,Chicopee Comprehensive High School,Public School,00610000
+00620000,Chilmark (non-op),Public School District,
+00630000,Clarksburg,Public School District,
+00630010,Clarksburg Elementary,Public School,00630000
+00640000,Clinton,Public School District,
+00640050,Clinton Elementary,Public School,00640000
+00640305,Clinton Middle School,Public School,00640000
+00640505,Clinton Senior High,Public School,00640000
+00650000,Cohasset,Public School District,
+00650005,Deer Hill,Public School,00650000
+00650010,Joseph Osgood,Public School,00650000
+00650305,Cohasset Middle School,Public School,00650000
+00650505,Cohasset High School,Public School,00650000
+00660000,Colrain (non-op),Public School District,
+00670000,Concord,Public School District,
+00670005,Alcott,Public School,00670000
+00670020,Thoreau,Public School,00670000
+00670030,Willard,Public School,00670000
+00670305,Concord Middle,Public School,00670000
+00680000,Conway,Public School District,
+00680005,Conway Grammar,Public School,00680000
+00690000,Cummington (non-op),Public School District,
+00700000,Dalton (non-op),Public School District,
+00710000,Danvers,Public School District,
+00710010,Highlands,Public School,00710000
+00710015,Great Oak,Public School,00710000
+00710030,Riverside,Public School,00710000
+00710032,Ivan G Smith,Public School,00710000
+00710045,Willis E Thorpe,Public School,00710000
+00710305,Holten Richmond Middle School,Public School,00710000
+00710505,Danvers High,Public School,00710000
+00720000,Dartmouth,Public School District,
+00720005,Andrew B. Cushman School,Public School,00720000
+00720015,Joseph Demello,Public School,00720000
+00720030,George H Potter,Public School,00720000
+00720040,James M. Quinn School,Public School,00720000
+00720050,Dartmouth Middle,Public School,00720000
+00720505,Dartmouth High,Public School,00720000
+00730000,Dedham,Public School District,
+00730005,Early Childhood Center,Public School,00730000
+00730010,Avery,Public School,00730000
+00730025,Greenlodge,Public School,00730000
+00730030,Oakdale,Public School,00730000
+00730045,Riverdale,Public School,00730000
+00730305,Dedham Middle School,Public School,00730000
+00730505,Dedham High,Public School,00730000
+00740000,Deerfield,Public School District,
+00740015,Deerfield Elementary,Public School,00740000
+00750000,Dennis (non-op),Public School District,
+00760000,Dighton (non-op),Public School District,
+00770000,Douglas,Public School District,
+00770005,Douglas Primary School,Public School,00770000
+00770015,Douglas Elementary School,Public School,00770000
+00770305,Douglas Middle School,Public School,00770000
+00770505,Douglas High School,Public School,00770000
+00780000,Dover,Public School District,
+00780005,Chickering,Public School,00780000
+00790000,Dracut,Public School District,
+00790020,Joseph A Campbell Elementary,Public School,00790000
+00790030,Greenmont Avenue,Public School,00790000
+00790035,Brookside Elementary,Public School,00790000
+00790045,George H. Englesby Elementary School,Public School,00790000
+00790410,Justus C. Richardson Middle School,Public School,00790000
+00790505,Dracut Senior High,Public School,00790000
+00800000,Dudley (non-op),Public School District,
+00810000,Dunstable (non-op),Public School District,
+00820000,Duxbury,Public School District,
+00820004,Alden School,Public School,00820000
+00820006,Chandler Elementary,Public School,00820000
+00820305,Duxbury Middle,Public School,00820000
+00820505,Duxbury High,Public School,00820000
+00830000,East Bridgewater,Public School District,
+00830005,Central,Public School,00830000
+00830010,Gordon W. Mitchell School,Public School,00830000
+00830505,East Bridgewater JR./SR. High School,Public School,00830000
+00840000,East Brookfield (non-op),Public School District,
+00850000,Eastham,Public School District,
+00850005,Eastham Elementary,Public School,00850000
+00860000,Easthampton,Public School District,
+00860415,Mountain View School,Public School,00860000
+00860505,Easthampton High,Public School,00860000
+00870000,East Longmeadow,Public School District,
+00870010,Mapleshade,Public School,00870000
+00870013,Meadow Brook,Public School,00870000
+00870015,Mountain View,Public School,00870000
+00870305,Birchland Park,Public School,00870000
+00870505,East Longmeadow High,Public School,00870000
+00880000,Easton,Public School District,
+00880015,Blanche A. Ames Elementary School,Public School,00880000
+00880025,Richardson Olmsted School,Public School,00880000
+00880405,Easton Middle School,Public School,00880000
+00880505,Oliver Ames High,Public School,00880000
+00890000,Edgartown,Public School District,
+00890005,Edgartown Elementary,Public School,00890000
+00900000,Egremont (non-op),Public School District,
+00910000,Erving,Public School District,
+00910030,Erving Elementary,Public School,00910000
+00920000,Essex (non-op),Public School District,
+00930000,Everett,Public School District,
+00930001,Webster Extension,Public School,00930000
+00930003,Adams School,Public School,00930000
+00930010,Sumner G. Whittier School,Public School,00930000
+00930015,Webster School,Public School,00930000
+00930018,Madeline English School,Public School,00930000
+00930028,George Keverian School,Public School,00930000
+00930030,Devens School,Public School,00930000
+00930038,Lafayette School,Public School,00930000
+00930058,Parlin School,Public School,00930000
+00930505,Everett High,Public School,00930000
+00940000,Fairhaven,Public School District,
+00940010,East Fairhaven,Public School,00940000
+00940030,Leroy Wood,Public School,00940000
+00940305,Hastings Middle,Public School,00940000
+00940505,Fairhaven High,Public School,00940000
+00950000,Fall River,Public School District,
+00950001,Early Learning Center,Public School,00950000
+00950002,FRPS Early Learning Center,Public School,00950000
+00950005,North End Elementary,Public School,00950000
+00950009,Carlton M. Viveiros Elementary School,Public School,00950000
+00950011,Mary Fonseca Elementary School,Public School,00950000
+00950013,Letourneau Elementary School,Public School,00950000
+00950017,Henry Lord Community School,Public School,00950000
+00950045,John J Doran,Public School,00950000
+00950065,William S Greene,Public School,00950000
+00950130,Spencer Borden,Public School,00950000
+00950140,James Tansey,Public School,00950000
+00950145,Samuel Watson,Public School,00950000
+00950150,Westall Elementary,Public School,00950000
+00950305,Talbot Innovation School,Public School,00950000
+00950315,Morton Middle,Public School,00950000
+00950320,Matthew J Kuss Middle,Public School,00950000
+00950340,Stone PK-12 School,Public School,00950000
+00950505,B M C Durfee High,Public School,00950000
+00950525,Resiliency Preparatory Academy,Public School,00950000
+00960000,Falmouth,Public School District,
+00960005,East Falmouth Elementary,Public School,00960000
+00960015,Teaticket,Public School,00960000
+00960020,Mullen-Hall,Public School,00960000
+00960030,North Falmouth Elementary,Public School,00960000
+00960305,Morse Pond School,Public School,00960000
+00960405,Lawrence,Public School,00960000
+00960505,Falmouth High,Public School,00960000
+00970000,Fitchburg,Public School District,
+00970016,Crocker Elementary,Public School,00970000
+00970043,Reingold Elementary,Public School,00970000
+00970048,Memorial Middle School,Public School,00970000
+00970060,South Street Early Learning Center,Public School,00970000
+00970315,Arthur M Longsjo Middle School,Public School,00970000
+00970340,McKay Elementary School,Public School,00970000
+00970505,Fitchburg High,Public School,00970000
+00970510,Goodrich Academy,Public School,00970000
+00980000,Florida,Public School District,
+00980005,Abbott Memorial,Public School,00980000
+00990000,Foxborough,Public School District,
+00990015,Mabelle M Burrell,Public School,00990000
+00990020,Vincent M Igo Elementary,Public School,00990000
+00990050,Charles Taylor Elementary,Public School,00990000
+00990405,John J Ahern,Public School,00990000
+00990505,Foxborough High,Public School,00990000
+01000000,Framingham,Public School District,
+01000001,Juniper Hill School,Public School,01000000
+01000005,King Elementary School,Public School,01000000
+01000006,Brophy,Public School,01000000
+01000007,Charlotte A Dunning,Public School,01000000
+01000015,Hemenway,Public School,01000000
+01000035,Barbieri Elementary,Public School,01000000
+01000039,Potter Road,Public School,01000000
+01000045,Mary E Stapleton Elementary,Public School,01000000
+01000050,Miriam F McCarthy School,Public School,01000000
+01000055,Harmony Grove Elementary,Public School,01000000
+01000302,Cameron Middle School,Public School,01000000
+01000305,Fuller Middle,Public School,01000000
+01000310,Walsh Middle,Public School,01000000
+01000515,Framingham High School,Public School,01000000
+01010000,Franklin,Public School District,
+01010003,Franklin Early Childhood Development Center,Public School,01010000
+01010010,Jefferson Elementary,Public School,01010000
+01010012,Helen Keller Elementary,Public School,01010000
+01010013,J F Kennedy Memorial,Public School,01010000
+01010030,Oak Street Elementary,Public School,01010000
+01010032,Parmenter,Public School,01010000
+01010040,Annie Sullivan Middle School,Public School,01010000
+01010310,Remington Middle,Public School,01010000
+01010405,Horace Mann,Public School,01010000
+01010505,Franklin High,Public School,01010000
+01020000,Freetown (non-op),Public School District,
+01030000,Gardner,Public School District,
+01030001,Gardner Elementary School,Public School,01030000
+01030405,Gardner Middle School,Public School,01030000
+01030505,Gardner High,Public School,01030000
+01030515,Gardner Academy for Learning and Technology,Public School,01030000
+01040000,Aquinnah (non-op),Public School District,
+01050000,Georgetown,Public School District,
+01050005,Perley Elementary,Public School,01050000
+01050010,Penn Brook,Public School,01050000
+01050305,Georgetown Middle School,Public School,01050000
+01050505,Georgetown High School,Public School,01050000
+01060000,Gill (non-op),Public School District,
+01070000,Gloucester,Public School District,
+01070010,Beeman Memorial,Public School,01070000
+01070025,Gloucester PreSchool,Public School,01070000
+01070030,East Veterans Elementary School,Public School,01070000
+01070042,Plum Cove School,Public School,01070000
+01070050,West Parish,Public School,01070000
+01070305,Ralph B O'Maley Middle,Public School,01070000
+01070505,Gloucester High,Public School,01070000
+01080000,Goshen (non-op),Public School District,
+01090000,Gosnold,Public School District,
+01090005,Cuttyhunk Elementary,Public School,01090000
+01100000,Grafton,Public School District,
+01100005,South Grafton Elementary,Public School,01100000
+01100025,North Grafton Elementary,Public School,01100000
+01100030,North Street Elementary School,Public School,01100000
+01100200,Millbury Street Elementary School,Public School,01100000
+01100305,Grafton Middle,Public School,01100000
+01100505,Grafton High School,Public School,01100000
+01110000,Granby,Public School District,
+01110004,East Meadow,Public School,01110000
+01110505,Granby Jr Sr High School,Public School,01110000
+01120000,Granville (non-op),Public School District,
+01130000,Great Barrington (non-op),Public School District,
+01140000,Greenfield,Public School District,
+01140005,The Academy of Early Learning at North Parish,Public School,01140000
+01140010,Federal Street School,Public School,01140000
+01140025,Discovery School at Four Corners,Public School,01140000
+01140035,Newton School,Public School,01140000
+01140305,Greenfield Middle,Public School,01140000
+01140505,Greenfield High,Public School,01140000
+01150000,Groton (non-op),Public School District,
+01160000,Groveland (non-op),Public School District,
+01170000,Hadley,Public School District,
+01170015,Hadley Elementary,Public School,01170000
+01170505,Hopkins Academy,Public School,01170000
+01180000,Halifax,Public School District,
+01180005,Halifax Elementary,Public School,01180000
+01190000,Hamilton (non-op),Public School District,
+01200000,Hampden (non-op),Public School District,
+01210000,Hancock,Public School District,
+01210005,Hancock Elementary,Public School,01210000
+01220000,Hanover,Public School District,
+01220004,Cedar Elementary,Public School,01220000
+01220005,Center Elementary,Public School,01220000
+01220305,Hanover Middle,Public School,01220000
+01220505,Hanover High,Public School,01220000
+01230000,Hanson (non-op),Public School District,
+01240000,Hardwick (non-op),Public School District,
+01250000,Harvard,Public School District,
+01250005,Hildreth Elementary School,Public School,01250000
+01250305,The Bromfield Middle School,Public School,01250000
+01250505,The Bromfield High School,Public School,01250000
+01260000,Harwich (non-op),Public School District,
+01270000,Hatfield,Public School District,
+01270005,Hatfield Elementary,Public School,01270000
+01270505,Smith Academy,Public School,01270000
+01280000,Haverhill,Public School District,
+01280001,Moody Preschool Extension,Public School,01280000
+01280008,Bradford Elementary,Public School,01280000
+01280026,Golden Hill,Public School,01280000
+01280030,Caleb Dustin Hunking School,Public School,01280000
+01280033,Greenleaf Academy,Public School,01280000
+01280045,Moody,Public School,01280000
+01280050,Dr Paul Nettle,Public School,01280000
+01280054,Pentucket Lake Elementary,Public School,01280000
+01280067,Silver Hill Elementary School,Public School,01280000
+01280073,Bartlett School and Assessment Center,Public School,01280000
+01280075,Tilton,Public School,01280000
+01280080,Walnut Square,Public School,01280000
+01280085,John G Whittier,Public School,01280000
+01280100,Consentino Middle School,Public School,01280000
+01280505,Haverhill High,Public School,01280000
+01280515,Gateway Academy,Public School,01280000
+01290000,Hawley (non-op),Public School District,
+01300000,Heath (non-op),Public School District,
+01310000,Hingham,Public School District,
+01310005,East Elementary School,Public School,01310000
+01310010,Wm L Foster Elementary,Public School,01310000
+01310019,Plymouth River,Public School,01310000
+01310020,South Elementary,Public School,01310000
+01310410,Hingham Middle School,Public School,01310000
+01310505,Hingham High,Public School,01310000
+01320000,Hinsdale (non-op),Public School District,
+01330000,Holbrook,Public School District,
+01330018,John F Kennedy,Public School,01330000
+01330505,Holbrook Middle High School,Public School,01330000
+01340000,Holden (non-op),Public School District,
+01350000,Holland,Public School District,
+01350005,Holland Elementary,Public School,01350000
+01360000,Holliston,Public School District,
+01360007,Miller School,Public School,01360000
+01360010,Placentino Elementary,Public School,01360000
+01360305,Robert H. Adams Middle School,Public School,01360000
+01360505,Holliston High,Public School,01360000
+01370000,Holyoke,Public School District,
+01370003,Joseph Metcalf School,Public School,01370000
+01370015,Lt Elmer J McMahon Elementary,Public School,01370000
+01370025,Morgan Full Service Community School,Public School,01370000
+01370040,Kelly Elementary,Public School,01370000
+01370045,E N White Elementary,Public School,01370000
+01370055,Lt Clayre Sullivan Elementary,Public School,01370000
+01370060,Maurice A Donahue Elementary,Public School,01370000
+01370070,H.B. Lawrence School,Public School,01370000
+01370320,Holyoke STEM Academy,Public School,01370000
+01370505,Holyoke High,Public School,01370000
+01380000,Hopedale,Public School District,
+01380003,Park Street School,Public School,01380000
+01380010,Memorial,Public School,01380000
+01380505,Hopedale Jr Sr High,Public School,01380000
+01390000,Hopkinton,Public School District,
+01390003,Hopkinton Pre-School,Public School,01390000
+01390005,Marathon Elementary School,Public School,01390000
+01390010,Elmwood,Public School,01390000
+01390015,Hopkins Elementary School,Public School,01390000
+01390305,Hopkinton Middle School,Public School,01390000
+01390505,Hopkinton High,Public School,01390000
+01400000,Hubbardston (non-op),Public School District,
+01410000,Hudson,Public School District,
+01410007,Mulready Elementary,Public School,01410000
+01410015,Forest Avenue Elementary,Public School,01410000
+01410030,C A Farley,Public School,01410000
+01410410,David J. Quinn Middle School,Public School,01410000
+01410505,Hudson High,Public School,01410000
+01420000,Hull,Public School District,
+01420015,Lillian M Jacobs,Public School,01420000
+01420505,Hull High,Public School,01420000
+01430000,Huntington (non-op),Public School District,
+01440000,Ipswich,Public School District,
+01440007,Paul F Doyon Memorial,Public School,01440000
+01440015,Winthrop,Public School,01440000
+01440305,Ipswich Middle School,Public School,01440000
+01440505,Ipswich High,Public School,01440000
+01450000,Kingston,Public School District,
+01450005,Kingston Elementary,Public School,01450000
+01450020,Kingston Intermediate,Public School,01450000
+01460000,Lakeville (non-op),Public School District,
+01470000,Lancaster (non-op),Public School District,
+01480000,Lanesborough (non-op),Public School District,
+01490000,Lawrence,Public School District,
+01490001,Rollins Early Childhood Center,Public School,01490000
+01490002,Lawlor Early Childhood Center,Public School,01490000
+01490003,John Breen School,Public School,01490000
+01490004,South Lawrence East Elementary School,Public School,01490000
+01490009,Arlington Elementary,Public School,01490000
+01490011,Lawrence Family Public Academy,Public School,01490000
+01490015,Alexander B Bruce,Public School,01490000
+01490017,Arlington Middle School,Public School,01490000
+01490018,Robert Frost,Public School,01490000
+01490020,James F Hennessey,Public School,01490000
+01490022,Gerard A. Guilmette,Public School,01490000
+01490025,Guilmette Middle School,Public School,01490000
+01490027,Parthum Middle School,Public School,01490000
+01490040,Francis M Leahy,Public School,01490000
+01490048,Oliver Elementary School,Public School,01490000
+01490049,Oliver Middle School,Public School,01490000
+01490053,Edward F. Parthum,Public School,01490000
+01490075,John K Tarbox,Public School,01490000
+01490080,Emily G Wetherbee,Public School,01490000
+01490085,Spark Academy,Public School,01490000
+01490090,Leonard Middle School,Public School,01490000
+01490515,Lawrence High School,Public School,01490000
+01490525,Frost Middle School,Public School,01490000
+01490536,High School Learning Center,Public School,01490000
+01490537,School for Exceptional Studies,Public School,01490000
+01490615,RISE Academy,Public School,01490000
+01500000,Lee,Public School District,
+01500025,Lee Elementary,Public School,01500000
+01500505,Lee Middle/High School,Public School,01500000
+01510000,Leicester,Public School District,
+01510001,Leicester Integrated Preschool,Public School,01510000
+01510005,Leicester Elementary,Public School,01510000
+01510015,Leicester Middle,Public School,01510000
+01510505,Leicester High,Public School,01510000
+01520000,Lenox,Public School District,
+01520015,Morris,Public School,01520000
+01520505,Lenox Memorial High,Public School,01520000
+01530000,Leominster,Public School District,
+01530003,Bennett,Public School,01530000
+01530005,Lincoln School,Public School,01530000
+01530007,Fall Brook,Public School,01530000
+01530010,Frances Drake School,Public School,01530000
+01530025,Johnny Appleseed,Public School,01530000
+01530030,Northwest,Public School,01530000
+01530040,Priest Street,Public School,01530000
+01530045,Samoset School,Public School,01530000
+01530320,Sky View Middle School,Public School,01530000
+01530505,Leominster High School,Public School,01530000
+01530515,Leominster Center for Excellence,Public School,01530000
+01530605,Center For Technical Education Innovation,Public School,01530000
+01530705,Leominster Academy,Public School,01530000
+01540000,Leverett,Public School District,
+01540005,Leverett Elementary,Public School,01540000
+01550000,Lexington,Public School District,
+01550001,Lexington Children's Place,Public School,01550000
+01550006,Bridge,Public School,01550000
+01550008,Bowman,Public School,01550000
+01550010,Joseph Estabrook,Public School,01550000
+01550015,Fiske,Public School,01550000
+01550030,Harrington,Public School,01550000
+01550035,Maria Hastings,Public School,01550000
+01550305,Jonas Clarke Middle,Public School,01550000
+01550310,Wm Diamond Middle,Public School,01550000
+01550505,Lexington High,Public School,01550000
+01560000,Leyden (non-op),Public School District,
+01570000,Lincoln,Public School District,
+01570025,Lincoln School,Public School,01570000
+01570305,Hanscom School,Public School,01570000
+01580000,Littleton,Public School District,
+01580005,Shaker Lane Elementary,Public School,01580000
+01580015,Russell St Elementary,Public School,01580000
+01580305,Littleton Middle School,Public School,01580000
+01580505,Littleton High School,Public School,01580000
+01590000,Longmeadow,Public School District,
+01590005,Blueberry Hill,Public School,01590000
+01590010,Center,Public School,01590000
+01590017,Glenbrook Middle,Public School,01590000
+01590025,Wolf Swamp Road,Public School,01590000
+01590305,Williams Middle,Public School,01590000
+01590505,Longmeadow High,Public School,01590000
+01600000,Lowell,Public School District,
+01600001,Cardinal O'Connell Early Learning Center,Public School,01600000
+01600002,Dr Gertrude Bailey,Public School,01600000
+01600005,Rogers STEM Academy,Public School,01600000
+01600010,Joseph McAvinnue,Public School,01600000
+01600015,Greenhalge,Public School,01600000
+01600018,Pyne Arts,Public School,01600000
+01600020,Abraham Lincoln,Public School,01600000
+01600027,Moody Elementary,Public School,01600000
+01600030,Charles W Morey,Public School,01600000
+01600036,Pawtucketville Memorial,Public School,01600000
+01600040,Peter W Reilly,Public School,01600000
+01600050,John J Shaughnessy,Public School,01600000
+01600055,Washington,Public School,01600000
+01600075,S Christa McAuliffe Elementary,Public School,01600000
+01600080,Charlotte M Murkland Elementary,Public School,01600000
+01600085,Laura Lee Therapeutic Day School,Public School,01600000
+01600090,Bartlett Community Partnership,Public School,01600000
+01600310,B.F. Butler Middle School,Public School,01600000
+01600315,James S Daley Middle School,Public School,01600000
+01600320,Leblanc Therapeutic Day School,Public School,01600000
+01600330,Henry J Robinson Middle,Public School,01600000
+01600340,James Sullivan Middle School,Public School,01600000
+01600345,Dr An Wang School,Public School,01600000
+01600360,Kathryn P. Stoklosa Middle School,Public School,01600000
+01600505,Lowell High,Public School,01600000
+01600515,The Career Academy,Public School,01600000
+01600605,Dr. Janice Adie Day School,Public School,01600000
+01610000,Ludlow,Public School District,
+01610010,East Street Elementary School,Public School,01610000
+01610305,Paul R Baird Middle,Public School,01610000
+01610505,Ludlow Senior High,Public School,01610000
+01610665,Harris Brook Elementary School,Public School,01610000
+01620000,Lunenburg,Public School District,
+01620010,Lunenburg Primary School,Public School,01620000
+01620025,Turkey Hill Elementary School,Public School,01620000
+01620305,Lunenburg Middle School,Public School,01620000
+01620505,Lunenburg High,Public School,01620000
+01620605,Advanced Community Experience Program,Public School,01620000
+01630000,Lynn,Public School District,
+01630004,Early Childhood Center,Public School,01630000
+01630005,Washington Elementary School,Public School,01630000
+01630011,Aborn,Public School,01630000
+01630016,A Drewicz Elementary,Public School,01630000
+01630020,Brickett Elementary,Public School,01630000
+01630030,Julia F Callahan,Public School,01630000
+01630035,Cobbet Elementary,Public School,01630000
+01630040,Wm P Connery,Public School,01630000
+01630045,E J Harrington,Public School,01630000
+01630050,Robert L Ford,Public School,01630000
+01630055,Hood,Public School,01630000
+01630060,Ingalls,Public School,01630000
+01630070,Lincoln-Thomson,Public School,01630000
+01630075,Lynn Woods,Public School,01630000
+01630080,William R Fallon,Public School,01630000
+01630085,Sewell-Anderson,Public School,01630000
+01630090,Capt William G Shoemaker,Public School,01630000
+01630095,Edward A Sisson,Public School,01630000
+01630100,Tracy,Public School,01630000
+01630305,Thurgood Marshall Mid,Public School,01630000
+01630405,Breed Middle School,Public School,01630000
+01630420,Pickering Middle,Public School,01630000
+01630505,Classical High,Public School,01630000
+01630510,Lynn English High,Public School,01630000
+01630525,Fecteau-Leary Junior/Senior High School,Public School,01630000
+01630575,Fredrick Douglass Collegiate Academy,Public School,01630000
+01630605,Lynn Vocational Technical Institute,Public School,01630000
+01640000,Lynnfield,Public School District,
+01640005,Lynnfield Preschool,Public School,01640000
+01640010,Huckleberry Hill,Public School,01640000
+01640020,Summer Street,Public School,01640000
+01640405,Lynnfield Middle School,Public School,01640000
+01640505,Lynnfield High,Public School,01640000
+01650000,Malden,Public School District,
+01650003,Beebe,Public School,01650000
+01650013,Ferryway,Public School,01650000
+01650027,Forestdale,Public School,01650000
+01650047,Linden,Public School,01650000
+01650049,Malden Early Learning Center,Public School,01650000
+01650057,Salemwood,Public School,01650000
+01650505,Malden High,Public School,01650000
+01660000,Manchester (non-op),Public School District,
+01670000,Mansfield,Public School District,
+01670003,Roland Green School,Public School,01670000
+01670007,Everett W Robinson,Public School,01670000
+01670014,Jordan/Jackson Elementary,Public School,01670000
+01670035,Harold L Qualters Middle,Public School,01670000
+01670505,Mansfield High,Public School,01670000
+01680000,Marblehead,Public School District,
+01680016,Village School,Public School,01680000
+01680020,Glover,Public School,01680000
+01680030,Lucretia and Joseph Brown School,Public School,01680000
+01680300,Marblehead Veterans Middle School,Public School,01680000
+01680505,Marblehead High,Public School,01680000
+01690000,Marion,Public School District,
+01690005,Sippican,Public School,01690000
+01700000,Marlborough,Public School District,
+01700006,Early Childhood Center,Public School,01700000
+01700008,Francis J Kane,Public School,01700000
+01700020,Goodnow Brothers Elementary School,Public School,01700000
+01700025,Richer,Public School,01700000
+01700030,Charles Jaworek School,Public School,01700000
+01700045,1 LT Charles W. Whitcomb School,Public School,01700000
+01700505,Marlborough High,Public School,01700000
+01710000,Marshfield,Public School District,
+01710001,Jeffrey W. Granatino Early Education Center,Public School,01710000
+01710005,Eames Way School,Public School,01710000
+01710010,South River,Public School,01710000
+01710015,Daniel Webster,Public School,01710000
+01710020,Gov Edward Winslow,Public School,01710000
+01710025,Martinson Elementary,Public School,01710000
+01710310,Furnace Brook Middle,Public School,01710000
+01710505,Marshfield High,Public School,01710000
+01720000,Mashpee,Public School District,
+01720005,Kenneth Coombs School,Public School,01720000
+01720035,Quashnet School,Public School,01720000
+01720505,Mashpee Middle-High School,Public School,01720000
+01730000,Mattapoisett,Public School District,
+01730005,Center,Public School,01730000
+01730010,Old Hammondtown,Public School,01730000
+01740000,Maynard,Public School District,
+01740010,Green Meadow,Public School,01740000
+01740305,Fowler School,Public School,01740000
+01740505,Maynard High,Public School,01740000
+01750000,Medfield,Public School District,
+01750003,Memorial School,Public School,01750000
+01750005,Dale Street,Public School,01750000
+01750007,Ralph Wheelock School,Public School,01750000
+01750305,Thomas Blake Middle,Public School,01750000
+01750505,Medfield Senior High,Public School,01750000
+01760000,Medford,Public School District,
+01760068,John J McGlynn Elementary School,Public School,01760000
+01760130,Brooks School,Public School,01760000
+01760140,Missituk Elementary School,Public School,01760000
+01760150,Milton Fuller Roberts,Public School,01760000
+01760315,Madeleine Dugger Andrews,Public School,01760000
+01760320,John J. McGlynn Middle School,Public School,01760000
+01760505,Medford High,Public School,01760000
+01760510,Curtis-Tufts,Public School,01760000
+01770000,Medway,Public School District,
+01770013,John D Mc Govern Elementary,Public School,01770000
+01770015,Burke/Memorial Elementary School,Public School,01770000
+01770305,Medway Middle,Public School,01770000
+01770505,Medway High,Public School,01770000
+01780000,Melrose,Public School District,
+01780003,Early Childhood Center,Public School,01780000
+01780017,Herbert Clark Hoover,Public School,01780000
+01780020,Lincoln,Public School,01780000
+01780025,Horace Mann,Public School,01780000
+01780035,Roosevelt,Public School,01780000
+01780050,Winthrop,Public School,01780000
+01780305,Melrose Middle,Public School,01780000
+01780505,Melrose High,Public School,01780000
+01790000,Mendon (non-op),Public School District,
+01800000,Merrimac (non-op),Public School District,
+01810000,Methuen,Public School District,
+01810001,Early Childhood Center,Public School,01810000
+01810030,Marsh Grammar School,Public School,01810000
+01810050,Comprehensive Grammar School,Public School,01810000
+01810055,Tenney Grammar School,Public School,01810000
+01810060,Donald P Timony Grammar,Public School,01810000
+01810505,Methuen High,Public School,01810000
+01820000,Middleborough,Public School District,
+01820008,Henry B. Burkland Elementary School,Public School,01820000
+01820010,Mary K. Goode Elementary School,Public School,01820000
+01820011,Memorial Early Childhood Center,Public School,01820000
+01820305,John T. Nichols Middle,Public School,01820000
+01820505,Middleborough High,Public School,01820000
+01830000,Middlefield (non-op),Public School District,
+01840000,Middleton,Public School District,
+01840003,Fuller Meadow,Public School,01840000
+01840005,Howe-Manning,Public School,01840000
+01850000,Milford,Public School District,
+01850010,Memorial,Public School,01850000
+01850065,Brookside,Public School,01850000
+01850075,Shining Star Early Childhood Center,Public School,01850000
+01850090,Woodland,Public School,01850000
+01850305,Stacy Middle,Public School,01850000
+01850505,Milford High,Public School,01850000
+01860000,Millbury,Public School District,
+01860017,Elmwood Street,Public School,01860000
+01860025,Raymond E. Shaw Elementary,Public School,01860000
+01860505,Millbury Junior/Senior High,Public School,01860000
+01870000,Millis,Public School District,
+01870005,Clyde F Brown,Public School,01870000
+01870020,Millis Middle,Public School,01870000
+01870505,Millis High School,Public School,01870000
+01870515,TIES,Public School,01870000
+01880000,Millville (non-op),Public School District,
+01890000,Milton,Public School District,
+01890005,Collicot,Public School,01890000
+01890007,Cunningham School,Public School,01890000
+01890010,Glover,Public School,01890000
+01890020,Tucker,Public School,01890000
+01890410,Charles S Pierce Middle,Public School,01890000
+01890505,Milton High,Public School,01890000
+01900000,Monroe (non-op),Public School District,
+01910000,Monson,Public School District,
+01910010,Quarry Hill Community School,Public School,01910000
+01910030,Granite Valley School,Public School,01910000
+01910505,Monson High School,Public School,01910000
+01920000,Montague (non-op),Public School District,
+01930000,Monterey (non-op),Public School District,
+01940000,Montgomery (non-op),Public School District,
+01950000,Mount Washington (non-op),Public School District,
+01960000,Nahant,Public School District,
+01960010,Johnson,Public School,01960000
+01970000,Nantucket,Public School District,
+01970005,Nantucket Elementary,Public School,01970000
+01970010,Cyrus Peirce,Public School,01970000
+01970020,Nantucket Intermediate School,Public School,01970000
+01970505,Nantucket High,Public School,01970000
+01980000,Natick,Public School District,
+01980005,Bennett-Hemenway,Public School,01980000
+01980010,Brown,Public School,01980000
+01980035,Lilja Elementary,Public School,01980000
+01980043,Memorial,Public School,01980000
+01980305,J F Kennedy Middle School,Public School,01980000
+01980310,Wilson Middle,Public School,01980000
+01980505,Natick High,Public School,01980000
+01990000,Needham,Public School District,
+01990005,Broadmeadow,Public School,01990000
+01990020,John Eliot,Public School,01990000
+01990035,Sunita L. Williams Elementary,Public School,01990000
+01990040,William Mitchell,Public School,01990000
+01990050,Newman Elementary,Public School,01990000
+01990405,Pollard Middle,Public School,01990000
+01990410,High Rock School,Public School,01990000
+01990505,Needham High,Public School,01990000
+02000000,New Ashford (non-op),Public School District,
+02010000,New Bedford,Public School District,
+02010010,Charles S Ashley,Public School,02010000
+02010015,Elizabeth Carter Brooks,Public School,02010000
+02010020,Elwyn G Campbell,Public School,02010000
+02010040,James B Congdon,Public School,02010000
+02010045,Sgt Wm H Carney Academy,Public School,02010000
+02010050,John B Devalles,Public School,02010000
+02010063,Alfred J Gomes,Public School,02010000
+02010070,Irwin M. Jacobs Elementary School,Public School,02010000
+02010075,Ellen R Hathaway,Public School,02010000
+02010078,Hayden/McFadden,Public School,02010000
+02010095,Abraham Lincoln,Public School,02010000
+02010105,Carlos Pacheco,Public School,02010000
+02010115,John Avery Parker,Public School,02010000
+02010123,Casimir Pulaski,Public School,02010000
+02010125,Thomas R Rodman,Public School,02010000
+02010130,Jireh Swift,Public School,02010000
+02010135,William H Taylor,Public School,02010000
+02010140,Betsey B Winslow,Public School,02010000
+02010405,Keith Middle School,Public School,02010000
+02010410,Normandin Middle School,Public School,02010000
+02010415,Roosevelt Middle School,Public School,02010000
+02010505,New Bedford High,Public School,02010000
+02010510,Trinity Day Academy,Public School,02010000
+02010515,Whaling City Junior/Senior High School,Public School,02010000
+02020000,New Braintree (non-op),Public School District,
+02030000,Newbury (non-op),Public School District,
+02040000,Newburyport,Public School District,
+02040005,Francis T Bresnahan Elementary,Public School,02040000
+02040030,Edward G. Molin Elementary School,Public School,02040000
+02040305,Rupert A Nock Middle,Public School,02040000
+02040505,Newburyport High,Public School,02040000
+02050000,New Marlborough (non-op),Public School District,
+02060000,New Salem (non-op),Public School District,
+02070000,Newton,Public School District,
+02070005,A E Angier,Public School,02070000
+02070015,Bowen,Public School,02070000
+02070020,C C Burr,Public School,02070000
+02070025,Cabot,Public School,02070000
+02070040,Countryside,Public School,02070000
+02070055,Franklin,Public School,02070000
+02070070,Lincoln-Eliot,Public School,02070000
+02070075,Horace Mann,Public School,02070000
+02070080,Mason-Rice,Public School,02070000
+02070100,Peirce,Public School,02070000
+02070105,Memorial Spaulding,Public School,02070000
+02070108,Newton Early Childhood Program,Public School,02070000
+02070115,Underwood,Public School,02070000
+02070120,John Ward,Public School,02070000
+02070125,Williams,Public School,02070000
+02070130,Zervas,Public School,02070000
+02070305,Bigelow Middle,Public School,02070000
+02070310,Charles E Brown Middle,Public School,02070000
+02070315,F A Day Middle,Public School,02070000
+02070320,Oak Hill Middle,Public School,02070000
+02070505,Newton North High,Public School,02070000
+02070510,Newton South High,Public School,02070000
+02080000,Norfolk,Public School District,
+02080005,Freeman-Kennedy School,Public School,02080000
+02080015,H Olive Day,Public School,02080000
+02090000,North Adams,Public School District,
+02090008,Colegrove Park Elementary,Public School,02090000
+02090035,Brayton,Public School,02090000
+02090505,Drury High,Public School,02090000
+02100000,Northampton,Public School District,
+02100005,Bridge Street,Public School,02100000
+02100020,Jackson Street,Public School,02100000
+02100025,Leeds,Public School,02100000
+02100029,R. K. Finn Ryan Road,Public School,02100000
+02100410,John F Kennedy Middle School,Public School,02100000
+02100505,Northampton High,Public School,02100000
+02110000,North Andover,Public School District,
+02110001,Atkinson,Public School,02110000
+02110005,Anne Bradstreet Early Childhood Center,Public School,02110000
+02110010,Franklin,Public School,02110000
+02110015,Kittredge,Public School,02110000
+02110018,Annie L Sargent School,Public School,02110000
+02110020,Thomson,Public School,02110000
+02110305,North Andover Middle,Public School,02110000
+02110505,North Andover High,Public School,02110000
+02120000,North Attleborough,Public School District,
+02120007,Amvet Boulevard,Public School,02120000
+02120010,Falls,Public School,02120000
+02120013,Joseph W Martin Jr Elementary,Public School,02120000
+02120015,Roosevelt Avenue,Public School,02120000
+02120020,North Attleborough Early Learning Center,Public School,02120000
+02120030,Community,Public School,02120000
+02120305,North Attleborough Middle,Public School,02120000
+02120505,North Attleboro High,Public School,02120000
+02130000,Northborough,Public School District,
+02130003,Lincoln Street,Public School,02130000
+02130014,Marguerite E Peaslee,Public School,02130000
+02130015,Fannie E Proctor,Public School,02130000
+02130020,Marion E Zeh,Public School,02130000
+02130305,Robert E. Melican Middle School,Public School,02130000
+02140000,Northbridge,Public School District,
+02140001,Northbridge Elementary School,Public School,02140000
+02140305,Northbridge Middle,Public School,02140000
+02140505,Northbridge High,Public School,02140000
+02150000,North Brookfield,Public School District,
+02150015,North Brookfield Elementary,Public School,02150000
+02150505,North Brookfield High,Public School,02150000
+02160000,Northfield (non-op),Public School District,
+02170000,North Reading,Public School District,
+02170003,E Ethel Little School,Public School,02170000
+02170005,L D Batchelder,Public School,02170000
+02170010,J Turner Hood,Public School,02170000
+02170305,North Reading Middle,Public School,02170000
+02170505,North Reading High,Public School,02170000
+02180000,Norton,Public School District,
+02180010,L G Nourse Elementary,Public School,02180000
+02180015,J C Solmonese,Public School,02180000
+02180060,Henri A. Yelle,Public School,02180000
+02180305,Norton Middle,Public School,02180000
+02180505,Norton High,Public School,02180000
+02190000,Norwell,Public School District,
+02190005,Grace Farrar Cole,Public School,02190000
+02190020,William G Vinal,Public School,02190000
+02190405,Norwell Middle School,Public School,02190000
+02190505,Norwell High,Public School,02190000
+02200000,Norwood,Public School District,
+02200001,Little Mustangs Preschool Academy (LMPA),Public School,02200000
+02200005,Balch,Public School,02200000
+02200010,Cornelius M Callahan,Public School,02200000
+02200015,F A Cleveland,Public School,02200000
+02200020,John P Oldham,Public School,02200000
+02200025,Charles J Prescott,Public School,02200000
+02200075,George F. Willett,Public School,02200000
+02200305,Dr. Philip O. Coakley Middle School,Public School,02200000
+02200505,Norwood High,Public School,02200000
+02210000,Oak Bluffs,Public School District,
+02210005,Oak Bluffs Elementary,Public School,02210000
+02220000,Oakham (non-op),Public School District,
+02230000,Orange,Public School District,
+02230010,Fisher Hill School,Public School,02230000
+02240000,Orleans,Public School District,
+02240005,Orleans Elementary,Public School,02240000
+02250000,Otis (non-op),Public School District,
+02260000,Oxford,Public School District,
+02260005,Clara Barton,Public School,02260000
+02260010,Alfred M Chaffee,Public School,02260000
+02260405,Oxford Middle,Public School,02260000
+02260505,Oxford High,Public School,02260000
+02270000,Palmer,Public School District,
+02270008,Old Mill Pond,Public School,02270000
+02270505,Palmer High,Public School,02270000
+02280000,Paxton (non-op),Public School District,
+02290000,Peabody,Public School District,
+02290005,Captain Samuel Brown,Public School,02290000
+02290007,John E Burke,Public School,02290000
+02290010,Thomas Carroll,Public School,02290000
+02290015,Center,Public School,02290000
+02290016,John E. McCarthy,Public School,02290000
+02290027,William A Welch Sr,Public School,02290000
+02290035,South Memorial,Public School,02290000
+02290045,West Memorial,Public School,02290000
+02290305,J Henry Higgins Middle,Public School,02290000
+02290510,Peabody Veterans Memorial High,Public School,02290000
+02290705,Peabody Personalized Remote Education Program (Peabody P.R.E.P.),Public School,02290000
+02300000,Pelham,Public School District,
+02300005,Pelham Elementary,Public School,02300000
+02310000,Pembroke,Public School District,
+02310003,Bryantville Elementary,Public School,02310000
+02310010,Hobomock Elementary,Public School,02310000
+02310015,North Pembroke Elementary,Public School,02310000
+02310305,Pembroke Community Middle School,Public School,02310000
+02310505,Pembroke High School,Public School,02310000
+02320000,Pepperell (non-op),Public School District,
+02330000,Peru (non-op),Public School District,
+02340000,Petersham,Public School District,
+02340005,Petersham Center,Public School,02340000
+02350000,Phillipston (non-op),Public School District,
+02360000,Pittsfield,Public School District,
+02360010,Allendale,Public School,02360000
+02360030,Crosby Educational Academy,Public School,02360000
+02360035,Egremont,Public School,02360000
+02360045,Robert T. Capeless Elementary School,Public School,02360000
+02360055,Morningside Community School,Public School,02360000
+02360065,Crosby,Public School,02360000
+02360090,Stearns,Public School,02360000
+02360100,Williams,Public School,02360000
+02360105,Silvio O Conte Community,Public School,02360000
+02360305,John T Reid Middle,Public School,02360000
+02360310,Theodore Herberg Middle,Public School,02360000
+02360505,Pittsfield High,Public School,02360000
+02360510,Taconic High,Public School,02360000
+02360525,Eagle Education Academy,Public School,02360000
+02370000,Plainfield (non-op),Public School District,
+02380000,Plainville,Public School District,
+02380005,Beatrice H Wood Elementary,Public School,02380000
+02380010,Anna Ware Jackson,Public School,02380000
+02390000,Plymouth,Public School District,
+02390003,Plymouth Early Childhood Center,Public School,02390000
+02390005,Cold Spring,Public School,02390000
+02390010,Hedge,Public School,02390000
+02390011,Federal Furnace School,Public School,02390000
+02390012,Indian Brook,Public School,02390000
+02390015,Manomet Elementary,Public School,02390000
+02390030,Nathaniel Morton Elementary,Public School,02390000
+02390046,South Elementary,Public School,02390000
+02390047,West Elementary,Public School,02390000
+02390305,Plymouth South Middle,Public School,02390000
+02390405,Plymouth Commun Intermediate,Public School,02390000
+02390505,Plymouth North High,Public School,02390000
+02390515,Plymouth South High,Public School,02390000
+02400000,Plympton,Public School District,
+02400010,Dennett Elementary,Public School,02400000
+02410000,Princeton (non-op),Public School District,
+02420000,Provincetown,Public School District,
+02420020,Provincetown Schools,Public School,02420000
+02430000,Quincy,Public School District,
+02430005,Amelio Della Chiesa Early Childhood Center,Public School,02430000
+02430020,Beechwood Knoll Elementary,Public School,02430000
+02430025,Charles A Bernazzani Elementary,Public School,02430000
+02430035,Lincoln-Hancock Community School,Public School,02430000
+02430040,Atherton Hough,Public School,02430000
+02430055,Clifford H Marshall Elementary,Public School,02430000
+02430060,Merrymount,Public School,02430000
+02430065,Montclair,Public School,02430000
+02430075,Francis W Parker,Public School,02430000
+02430090,Snug Harbor Community School,Public School,02430000
+02430095,Squantum,Public School,02430000
+02430110,Wollaston School,Public School,02430000
+02430150,Dr. Rick DeCristofaro Learning Center,Public School,02430000
+02430305,Atlantic Middle,Public School,02430000
+02430310,Broad Meadows Middle,Public School,02430000
+02430315,Central Middle,Public School,02430000
+02430320,South West Middle School,Public School,02430000
+02430325,Point Webster Middle,Public School,02430000
+02430505,Quincy High,Public School,02430000
+02430510,North Quincy High,Public School,02430000
+02440000,Randolph,Public School District,
+02440015,Margaret L Donovan,Public School,02440000
+02440018,J F Kennedy Elementary,Public School,02440000
+02440020,North Randolph Elementary School,Public School,02440000
+02440040,Martin E Young Elementary,Public School,02440000
+02440410,Randolph Community Middle,Public School,02440000
+02440505,Randolph High,Public School,02440000
+02450000,Raynham (non-op),Public School District,
+02460000,Reading,Public School District,
+02460001,RISE PreSchool,Public School,02460000
+02460002,Alice M Barrows,Public School,02460000
+02460005,Birch Meadow,Public School,02460000
+02460010,Joshua Eaton,Public School,02460000
+02460017,J Warren Killam,Public School,02460000
+02460020,Wood End Elementary School,Public School,02460000
+02460305,Arthur W Coolidge Middle,Public School,02460000
+02460310,Walter S Parker Middle,Public School,02460000
+02460505,Reading Memorial High,Public School,02460000
+02470000,Rehoboth (non-op),Public School District,
+02480000,Revere,Public School District,
+02480003,A. C. Whelan Elementary School,Public School,02480000
+02480013,Beachmont Veterans Memorial School,Public School,02480000
+02480014,Rumney Marsh Academy,Public School,02480000
+02480025,Abraham Lincoln,Public School,02480000
+02480035,Staff Sargent James J. Hill Elementary School,Public School,02480000
+02480050,Paul Revere,Public School,02480000
+02480056,Garfield Elementary School,Public School,02480000
+02480057,Garfield Middle School,Public School,02480000
+02480305,Susan B. Anthony Middle School,Public School,02480000
+02480505,Revere High,Public School,02480000
+02480520,CityLab Innovation High School,Public School,02480000
+02490000,Richmond,Public School District,
+02490005,Richmond Consolidated,Public School,02490000
+02500000,Rochester,Public School District,
+02500005,Rochester Memorial,Public School,02500000
+02510000,Rockland,Public School District,
+02510025,R Stewart Esten Early Childhood Center,Public School,02510000
+02510060,Phelps Elementary School,Public School,02510000
+02510305,John W Rogers Middle,Public School,02510000
+02510505,Rockland Senior High,Public School,02510000
+02520000,Rockport,Public School District,
+02520005,Rockport Elementary,Public School,02520000
+02520510,Rockport Middle High,Public School,02520000
+02530000,Rowe,Public School District,
+02530005,Rowe Elementary,Public School,02530000
+02540000,Rowley (non-op),Public School District,
+02550000,Royalston (non-op),Public School District,
+02560000,Russell (non-op),Public School District,
+02570000,Rutland (non-op),Public School District,
+02580000,Salem,Public School District,
+02580001,Salem Early Childhood,Public School,02580000
+02580003,Bates,Public School,02580000
+02580010,Bentley Academy Innovation School,Public School,02580000
+02580015,Carlton,Public School,02580000
+02580030,Horace Mann Laboratory,Public School,02580000
+02580050,Saltonstall School,Public School,02580000
+02580070,Witchcraft Heights,Public School,02580000
+02580305,Collins Middle,Public School,02580000
+02580505,Salem High,Public School,02580000
+02580510,New Liberty Innovation School,Public School,02580000
+02580515,Salem Prep High School,Public School,02580000
+02590000,Salisbury (non-op),Public School District,
+02600000,Sandisfield (non-op),Public School District,
+02610000,Sandwich,Public School District,
+02610002,Forestdale School,Public School,02610000
+02610025,Oak Ridge,Public School,02610000
+02610505,Sandwich Middle High School,Public School,02610000
+02620000,Saugus,Public School District,
+02620060,Belmonte STEAM Academy,Public School,02620000
+02620065,Veterans Early Learning Center,Public School,02620000
+02620305,Saugus Middle School,Public School,02620000
+02620505,Saugus High,Public School,02620000
+02630000,Savoy,Public School District,
+02630010,Emma L Miller Elementary School,Public School,02630000
+02640000,Scituate,Public School District,
+02640007,Cushing Elementary,Public School,02640000
+02640010,Hatherly Elementary,Public School,02640000
+02640015,Jenkins Elementary School,Public School,02640000
+02640020,Wampatuck Elementary,Public School,02640000
+02640305,Gates Middle School,Public School,02640000
+02640505,Scituate High School,Public School,02640000
+02650000,Seekonk,Public School District,
+02650007,George R Martin,Public School,02650000
+02650015,Mildred Aitken School,Public School,02650000
+02650405,Dr. Kevin M. Hurley Middle School,Public School,02650000
+02650505,Seekonk High,Public School,02650000
+02650605,Seekonk Transitions Academy,Public School,02650000
+02660000,Sharon,Public School District,
+02660001,Sharon Early Childhood Center,Public School,02660000
+02660005,Cottage Street,Public School,02660000
+02660010,East Elementary,Public School,02660000
+02660015,Heights Elementary,Public School,02660000
+02660305,Sharon Middle,Public School,02660000
+02660505,Sharon High,Public School,02660000
+02670000,Sheffield (non-op),Public School District,
+02680000,Shelburne (non-op),Public School District,
+02690000,Sherborn,Public School District,
+02690010,Pine Hill,Public School,02690000
+02700000,Shirley (non-op),Public School District,
+02710000,Shrewsbury,Public School District,
+02710005,Major Howard W. Beal School,Public School,02710000
+02710015,Calvin Coolidge School,Public School,02710000
+02710020,Floral Street School,Public School,02710000
+02710025,Walter J. Paton School,Public School,02710000
+02710030,Oak Middle School,Public School,02710000
+02710035,Spring Street School,Public School,02710000
+02710040,Parker Road Preschool,Public School,02710000
+02710305,Sherwood Middle School,Public School,02710000
+02710505,Shrewsbury High School,Public School,02710000
+02720000,Shutesbury,Public School District,
+02720005,Shutesbury Elementary,Public School,02720000
+02730000,Somerset,Public School District,
+02730005,Chace Street,Public School,02730000
+02730008,North Elementary,Public School,02730000
+02730015,South,Public School,02730000
+02730305,Somerset Middle School,Public School,02730000
+02740000,Somerville,Public School District,
+02740005,Capuano Early Childhood Center,Public School,02740000
+02740015,Benjamin G Brown,Public School,02740000
+02740075,Arthur D Healey,Public School,02740000
+02740083,John F Kennedy,Public School,02740000
+02740087,Albert F. Argenziano School at Lincoln Park,Public School,02740000
+02740111,E Somerville Community,Public School,02740000
+02740115,West Somerville Neighborhood,Public School,02740000
+02740120,Winter Hill Community,Public School,02740000
+02740410,Next Wave Junior High,Public School,02740000
+02740505,Somerville High,Public School,02740000
+02740510,Full Circle High School,Public School,02740000
+02750000,Southampton,Public School District,
+02750005,William E Norris,Public School,02750000
+02760000,Southborough,Public School District,
+02760008,Mary E Finn School,Public School,02760000
+02760020,Margaret A Neary,Public School,02760000
+02760050,Albert S. Woodward Memorial School,Public School,02760000
+02760305,P Brent Trottier,Public School,02760000
+02770000,Southbridge,Public School District,
+02770005,Charlton Street,Public School,02770000
+02770010,Eastford Road,Public School,02770000
+02770020,West Street,Public School,02770000
+02770315,Southbridge Middle School,Public School,02770000
+02770515,Southbridge High School,Public School,02770000
+02770525,Southbridge Academy,Public School,02770000
+02780000,South Hadley,Public School District,
+02780015,Plains Elementary,Public School,02780000
+02780020,Mosier,Public School,02780000
+02780305,Michael E. Smith Middle School,Public School,02780000
+02780505,South Hadley High,Public School,02780000
+02790000,Southwick (non-op),Public School District,
+02800000,Spencer (non-op),Public School District,
+02810000,Springfield,Public School District,
+02810001,Early Childhood Education Center,Public School,02810000
+02810003,Balliet Preschool,Public School,02810000
+02810005,Springfield Public Day Elementary School,Public School,02810000
+02810010,Edward P. Boland School,Public School,02810000
+02810015,Thomas M Balliet,Public School,02810000
+02810020,Samuel Bowles,Public School,02810000
+02810023,Milton Bradley School,Public School,02810000
+02810025,Brightwood,Public School,02810000
+02810030,Elias Brookings,Public School,02810000
+02810035,Daniel B Brunton,Public School,02810000
+02810045,William N. DeBerry,Public School,02810000
+02810050,Hiram L Dorman,Public School,02810000
+02810055,Rebecca M Johnson,Public School,02810000
+02810060,Margaret C Ells,Public School,02810000
+02810065,Glenwood,Public School,02810000
+02810068,Glickman Elementary,Public School,02810000
+02810075,Frank H Freedman,Public School,02810000
+02810080,Frederick Harris,Public School,02810000
+02810085,Benjamin Swan Elementary,Public School,02810000
+02810095,Alfred G. Zanetti Montessori Magnet School,Public School,02810000
+02810100,Indian Orchard Elementary,Public School,02810000
+02810110,Kensington International School,Public School,02810000
+02810115,Liberty,Public School,02810000
+02810120,Lincoln,Public School,02810000
+02810125,Mary A. Dryden Veterans Memorial School,Public School,02810000
+02810140,Mary M Lynch,Public School,02810000
+02810145,Mary O Pottenger,Public School,02810000
+02810155,Mary M Walsh,Public School,02810000
+02810160,Sumner Avenue,Public School,02810000
+02810165,Arthur T Talmadge,Public School,02810000
+02810175,Alice B Beal Elementary,Public School,02810000
+02810180,Warner,Public School,02810000
+02810185,Washington,Public School,02810000
+02810190,White Street,Public School,02810000
+02810195,German Gerena Community School,Public School,02810000
+02810205,The Springfield Renaissance School an Expeditionary Learning School,Public School,02810000
+02810215,Springfield International Academy at Johnson,Public School,02810000
+02810315,Kiley Prep,Public School,02810000
+02810316,Kiley Academy,Public School,02810000
+02810317,Springfield Legacy Academy,Public School,02810000
+02810318,Emergence Academy,Public School,02810000
+02810320,John J Duggan Academy,Public School,02810000
+02810325,Forest Park Middle,Public School,02810000
+02810328,John F Kennedy Middle,Public School,02810000
+02810335,Springfield Realization Academy,Public School,02810000
+02810345,Springfield Public Day Middle School,Public School,02810000
+02810350,STEM Middle Academy,Public School,02810000
+02810355,South End Middle School,Public School,02810000
+02810360,Springfield Middle School,Public School,02810000
+02810366,Impact Prep at Chestnut,Public School,02810000
+02810367,Chestnut Accelerated Middle School (Talented and Gifted),Public School,02810000
+02810475,Conservatory of the Arts,Public School,02810000
+02810480,Van Sickle Prep,Public School,02810000
+02810485,Van Sickle Academy,Public School,02810000
+02810500,Springfield Central High,Public School,02810000
+02810510,High School Of Commerce,Public School,02810000
+02810530,Springfield High School of Science and Technology,Public School,02810000
+02810550,Springfield Public Day High School,Public School,02810000
+02810560,Liberty Preparatory Academy,Public School,02810000
+02810570,Springfield High School,Public School,02810000
+02810575,Gateway to College at Holyoke Community College,Public School,02810000
+02810580,Gateway to College at Springfield Technical Community College,Public School,02810000
+02810620,Roger L. Putnam Vocational Technical Academy,Public School,02810000
+02810675,Springfield Transition Academy,Public School,02810000
+02810700,Springfield International Academy at Sci-Tech,Public School,02810000
+02810705,The Springfield Virtual School,Public School,02810000
+02820000,Sterling (non-op),Public School District,
+02830000,Stockbridge (non-op),Public School District,
+02840000,Stoneham,Public School District,
+02840002,Stoneham Early Learning Center,Public School,02840000
+02840005,Colonial Park,Public School,02840000
+02840025,Robin Hood,Public School,02840000
+02840030,South,Public School,02840000
+02840405,Stoneham Central Middle School,Public School,02840000
+02840505,Stoneham High,Public School,02840000
+02850000,Stoughton,Public School District,
+02850010,Helen Hansen Elementary,Public School,02850000
+02850012,Edwin A Jones Early Childhood Center,Public School,02850000
+02850014,Joseph R Dawe Jr Elementary,Public School,02850000
+02850015,South Elementary,Public School,02850000
+02850020,Richard L. Wilkins Elementary School,Public School,02850000
+02850025,Joseph H Gibbons,Public School,02850000
+02850405,O'Donnell Middle School,Public School,02850000
+02850505,Stoughton High,Public School,02850000
+02860000,Stow (non-op),Public School District,
+02870000,Sturbridge,Public School District,
+02870005,Burgess Elementary,Public School,02870000
+02880000,Sudbury,Public School District,
+02880010,Josiah Haynes,Public School,02880000
+02880015,Israel Loring School,Public School,02880000
+02880025,General John Nixon Elementary,Public School,02880000
+02880030,Peter Noyes,Public School,02880000
+02880305,Ephraim Curtis Middle,Public School,02880000
+02890000,Sunderland,Public School District,
+02890005,Sunderland Elementary,Public School,02890000
+02900000,Sutton,Public School District,
+02900003,Sutton Early Learning,Public School,02900000
+02900005,Sutton Elementary,Public School,02900000
+02900305,Sutton Middle School,Public School,02900000
+02900510,Sutton High School,Public School,02900000
+02910000,Swampscott,Public School District,
+02910025,Swampscott Elementary School,Public School,02910000
+02910305,Swampscott Middle,Public School,02910000
+02910505,Swampscott High,Public School,02910000
+02920000,Swansea,Public School District,
+02920006,Elizabeth S Brown,Public School,02920000
+02920015,Gardner,Public School,02920000
+02920017,Mark G Hoyle Elementary,Public School,02920000
+02920020,Joseph G Luther,Public School,02920000
+02920305,Joseph Case Jr High,Public School,02920000
+02920505,Joseph Case High,Public School,02920000
+02930000,Taunton,Public School District,
+02930005,Edward F. Leddy Preschool,Public School,02930000
+02930007,Edmund Hatch Bennett,Public School,02930000
+02930008,Joseph C Chamberlain,Public School,02930000
+02930010,East Taunton Elementary,Public School,02930000
+02930015,James L. Mulcahey Elementary School,Public School,02930000
+02930027,Elizabeth Pole,Public School,02930000
+02930042,Joseph H Martin,Public School,02930000
+02930057,H H Galligan,Public School,02930000
+02930305,John F Parker Middle,Public School,02930000
+02930315,Benjamin Friedman Middle,Public School,02930000
+02930505,Taunton High,Public School,02930000
+02930525,Taunton Alternative High School,Public School,02930000
+02930705,Taunton Public Virtual Academy (TPVA),Public School,02930000
+02940000,Templeton (non-op),Public School District,
+02950000,Tewksbury,Public School District,
+02950001,L F Dewing,Public School,02950000
+02950010,Heath-Brook,Public School,02950000
+02950023,John F. Ryan,Public School,02950000
+02950030,Center Elementary School,Public School,02950000
+02950305,John W. Wynn Middle,Public School,02950000
+02950505,Tewksbury Memorial High,Public School,02950000
+02960000,Tisbury,Public School District,
+02960005,Tisbury Elementary,Public School,02960000
+02970000,Tolland (non-op),Public School District,
+02980000,Topsfield,Public School District,
+02980005,Proctor Elementary,Public School,02980000
+02980010,Steward Elementary,Public School,02980000
+02990000,Townsend (non-op),Public School District,
+03000000,Truro,Public School District,
+03000005,Truro Central,Public School,03000000
+03010000,Tyngsborough,Public School District,
+03010020,Tyngsborough Elementary,Public School,03010000
+03010305,Tyngsborough Middle,Public School,03010000
+03010505,Tyngsborough High School,Public School,03010000
+03020000,Tyringham (non-op),Public School District,
+03030000,Upton (non-op),Public School District,
+03040000,Uxbridge,Public School District,
+03040005,Taft Early Learning Center,Public School,03040000
+03040405,Whitin Intermediate,Public School,03040000
+03040505,Uxbridge High,Public School,03040000
+03040515,Gateway to College,Public School,03040000
+03050000,Wakefield,Public School District,
+03050001,Early Childhood Center at the Doyle School,Public School,03050000
+03050005,Dolbeare,Public School,03050000
+03050015,Woodville School,Public School,03050000
+03050020,Greenwood,Public School,03050000
+03050040,Walton,Public School,03050000
+03050310,Galvin Middle School,Public School,03050000
+03050505,Wakefield Memorial High,Public School,03050000
+03060000,Wales,Public School District,
+03060005,Wales Elementary,Public School,03060000
+03070000,Walpole,Public School District,
+03070002,Daniel Feeney Preschool Center,Public School,03070000
+03070005,Elm Street School,Public School,03070000
+03070010,Boyden,Public School,03070000
+03070015,Fisher,Public School,03070000
+03070018,Old Post Road,Public School,03070000
+03070315,Walpole Middle School,Public School,03070000
+03070505,Walpole High,Public School,03070000
+03080000,Waltham,Public School District,
+03080001,Dual Language School,Public School,03080000
+03080005,William F. Stanley Elementary School,Public School,03080000
+03080032,Douglas MacArthur Elementary School,Public School,03080000
+03080040,Northeast Elementary School,Public School,03080000
+03080050,Thomas R Plympton Elementary School,Public School,03080000
+03080060,James Fitzgerald Elementary School,Public School,03080000
+03080065,Henry Whittemore Elementary School,Public School,03080000
+03080404,John F Kennedy Middle,Public School,03080000
+03080415,John W. McDevitt Middle School,Public School,03080000
+03080505,Waltham Sr High,Public School,03080000
+03080515,Waltham OAUC High School,Public School,03080000
+03090000,Ware,Public School District,
+03090020,Stanley M Koziol Elementary School,Public School,03090000
+03090305,Ware Middle School,Public School,03090000
+03090505,Ware Junior/Senior High School,Public School,03090000
+03100000,Wareham,Public School District,
+03100017,Wareham Elementary School,Public School,03100000
+03100305,Wareham Middle,Public School,03100000
+03100315,Wareham Cooperative Alternative School,Public School,03100000
+03100505,Wareham Senior High,Public School,03100000
+03110000,Warren (non-op),Public School District,
+03120000,Warwick,Public School District,
+03120020,Warwick Community School,Public School,03120000
+03130000,Washington (non-op),Public School District,
+03140000,Watertown,Public School District,
+03140015,Cunniff,Public School,03140000
+03140020,Hosmer,Public School,03140000
+03140025,James Russell Lowell,Public School,03140000
+03140305,Watertown Middle,Public School,03140000
+03140505,Watertown High,Public School,03140000
+03150000,Wayland,Public School District,
+03150005,Claypit Hill School,Public School,03150000
+03150015,Happy Hollow School,Public School,03150000
+03150020,Loker School,Public School,03150000
+03150025,The Children's Way Preschool,Public School,03150000
+03150305,Wayland Middle School,Public School,03150000
+03150505,Wayland High School,Public School,03150000
+03160000,Webster,Public School District,
+03160015,Park Avenue Elementary,Public School,03160000
+03160315,Webster Middle School,Public School,03160000
+03160505,Bartlett High School,Public School,03160000
+03170000,Wellesley,Public School District,
+03170001,Preschool at Wellesley Schools,Public School,03170000
+03170005,Katharine Lee Bates,Public School,03170000
+03170015,Joseph E Fiske,Public School,03170000
+03170020,John D Hardy,Public School,03170000
+03170025,Hunnewell,Public School,03170000
+03170045,Schofield,Public School,03170000
+03170048,Sprague Elementary School,Public School,03170000
+03170305,Wellesley Middle,Public School,03170000
+03170505,Wellesley Sr High,Public School,03170000
+03180000,Wellfleet,Public School District,
+03180005,Wellfleet Elementary,Public School,03180000
+03190000,Wendell (non-op),Public School District,
+03200000,Wenham (non-op),Public School District,
+03210000,Westborough,Public School District,
+03210005,J Harding Armstrong,Public School,03210000
+03210010,Annie E Fales,Public School,03210000
+03210025,Elsie A Hastings Elementary,Public School,03210000
+03210045,Mill Pond School,Public School,03210000
+03210305,Sarah W Gibbons Middle,Public School,03210000
+03210505,Westborough High,Public School,03210000
+03220000,West Boylston,Public School District,
+03220005,Major Edwards Elementary,Public School,03220000
+03220505,West Boylston Junior/Senior High,Public School,03220000
+03230000,West Bridgewater,Public School District,
+03230003,Rose L Macdonald,Public School,03230000
+03230005,Spring Street School,Public School,03230000
+03230305,Howard School,Public School,03230000
+03230505,West Bridgewater Junior/Senior,Public School,03230000
+03240000,West Brookfield (non-op),Public School District,
+03250000,Westfield,Public School District,
+03250003,Fort Meadow Early Childhood Center,Public School,03250000
+03250015,Franklin Ave,Public School,03250000
+03250020,Abner Gibbs,Public School,03250000
+03250025,Highland,Public School,03250000
+03250033,Munger Hill,Public School,03250000
+03250036,Paper Mill,Public School,03250000
+03250040,Southampton Road,Public School,03250000
+03250075,Westfield Intermediate School,Public School,03250000
+03250310,Westfield Middle School,Public School,03250000
+03250505,Westfield High,Public School,03250000
+03250605,Westfield Technical Academy,Public School,03250000
+03260000,Westford,Public School District,
+03260004,Abbot Elementary,Public School,03260000
+03260007,Day Elementary,Public School,03260000
+03260015,Nabnasset,Public School,03260000
+03260025,Col John Robinson,Public School,03260000
+03260045,John A. Crisafulli Elementary School,Public School,03260000
+03260055,Rita E. Miller Elementary School,Public School,03260000
+03260310,Blanchard Middle,Public School,03260000
+03260330,Stony Brook School,Public School,03260000
+03260505,Westford Academy,Public School,03260000
+03270000,Westhampton,Public School District,
+03270005,Westhampton Elementary School,Public School,03270000
+03280000,Westminster (non-op),Public School District,
+03290000,West Newbury (non-op),Public School District,
+03300000,Weston,Public School District,
+03300010,Country,Public School,03300000
+03300012,Field Elementary School,Public School,03300000
+03300015,Woodland,Public School,03300000
+03300305,Weston Middle,Public School,03300000
+03300505,Weston High,Public School,03300000
+03310000,Westport,Public School District,
+03310015,Alice A Macomber,Public School,03310000
+03310030,Westport Elementary,Public School,03310000
+03310515,Westport Middle-High School,Public School,03310000
+03320000,West Springfield,Public School District,
+03320005,John Ashley,Public School,03320000
+03320007,Philip G Coburn,Public School,03320000
+03320010,John R Fausey,Public School,03320000
+03320025,Memorial,Public School,03320000
+03320030,Mittineague,Public School,03320000
+03320040,Tatham,Public School,03320000
+03320305,West Springfield Middle,Public School,03320000
+03320505,West Springfield High,Public School,03320000
+03330000,West Stockbridge (non-op),Public School District,
+03340000,West Tisbury (non-op),Public School District,
+03350000,Westwood,Public School District,
+03350012,Downey,Public School,03350000
+03350017,Martha Jones,Public School,03350000
+03350025,William E Sheehan,Public School,03350000
+03350030,Pine Hill Elementary School,Public School,03350000
+03350050,Westwood Integrated Preschool,Public School,03350000
+03350305,E W Thurston Middle,Public School,03350000
+03350505,Westwood High,Public School,03350000
+03360000,Weymouth,Public School District,
+03360003,Weymouth Early Childhood Center,Public School,03360000
+03360005,Academy Avenue,Public School,03360000
+03360020,Maria Weston Chapman Middle School,Public School,03360000
+03360050,Frederick C Murphy,Public School,03360000
+03360060,Thomas V Nash,Public School,03360000
+03360065,Lawrence W Pingree,Public School,03360000
+03360080,William Seach,Public School,03360000
+03360085,Ralph Talbot,Public School,03360000
+03360105,Thomas W. Hamilton Primary School,Public School,03360000
+03360110,Wessagusset,Public School,03360000
+03360505,Weymouth High School,Public School,03360000
+03370000,Whately,Public School District,
+03370005,Whately Elementary,Public School,03370000
+03380000,Whitman (non-op),Public School District,
+03390000,Wilbraham (non-op),Public School District,
+03400000,Williamsburg,Public School District,
+03400020,Anne T. Dunphy School,Public School,03400000
+03410000,Williamstown (non-op),Public School District,
+03420000,Wilmington,Public School District,
+03420005,Boutwell,Public School,03420000
+03420020,Woburn Street,Public School,03420000
+03420025,Shawsheen Elementary,Public School,03420000
+03420060,North Intermediate,Public School,03420000
+03420080,West Intermediate,Public School,03420000
+03420330,Wilmington Middle School,Public School,03420000
+03420505,Wilmington High,Public School,03420000
+03430000,Winchendon,Public School District,
+03430010,Winchendon PreSchool Program,Public School,03430000
+03430040,Memorial,Public School,03430000
+03430050,Toy Town Elementary,Public School,03430000
+03430315,Murdock Middle School,Public School,03430000
+03430405,Murdock Academy for Success,Public School,03430000
+03430515,Murdock High School,Public School,03430000
+03440000,Winchester,Public School District,
+03440005,Lincoln Elementary,Public School,03440000
+03440020,Lynch Elementary,Public School,03440000
+03440025,Vinson-Owen Elementary,Public School,03440000
+03440040,Muraco Elementary,Public School,03440000
+03440045,Ambrose Elementary,Public School,03440000
+03440305,McCall Middle,Public School,03440000
+03440505,Winchester High School,Public School,03440000
+03450000,Windsor (non-op),Public School District,
+03460000,Winthrop,Public School District,
+03460015,William P. Gorman/Fort Banks Elementary,Public School,03460000
+03460020,Arthur T. Cummings Elementary School,Public School,03460000
+03460305,Winthrop Middle School,Public School,03460000
+03460505,Winthrop High School,Public School,03460000
+03470000,Woburn,Public School District,
+03470005,Goodyear Elementary School,Public School,03470000
+03470020,Hurld-Wyman Elementary School,Public School,03470000
+03470025,Linscott-Rumford,Public School,03470000
+03470040,Clyde Reeves,Public School,03470000
+03470043,Shamrock,Public School,03470000
+03470055,Malcolm White,Public School,03470000
+03470065,Mary D Altavesta,Public School,03470000
+03470405,John F Kennedy Middle School,Public School,03470000
+03470410,Daniel L Joyce Middle School,Public School,03470000
+03470505,Woburn High,Public School,03470000
+03480000,Worcester,Public School District,
+03480002,Head Start,Public School,03480000
+03480020,Belmont Street Community,Public School,03480000
+03480026,Wawecus Road School,Public School,03480000
+03480030,Woodland Academy,Public School,03480000
+03480035,Burncoat Street,Public School,03480000
+03480045,Canterbury,Public School,03480000
+03480050,Chandler Elementary Community,Public School,03480000
+03480052,Worcester Dual Language Magnet School,Public School,03480000
+03480053,City View,Public School,03480000
+03480055,Clark St Community,Public School,03480000
+03480060,Columbus Park,Public School,03480000
+03480090,Flagg Street,Public School,03480000
+03480095,Elm Park Community,Public School,03480000
+03480100,Goddard School/Science Technical,Public School,03480000
+03480110,Gates Lane,Public School,03480000
+03480115,Grafton Street,Public School,03480000
+03480136,Heard Street,Public School,03480000
+03480140,Jacob Hiatt Magnet,Public School,03480000
+03480145,Lake View,Public School,03480000
+03480160,Lincoln Street,Public School,03480000
+03480175,May Street,Public School,03480000
+03480177,Francis J McGrath Elementary,Public School,03480000
+03480185,Midland Street,Public School,03480000
+03480200,Nelson Place,Public School,03480000
+03480202,Norrback Avenue,Public School,03480000
+03480210,Quinsigamond,Public School,03480000
+03480215,Rice Square,Public School,03480000
+03480220,Roosevelt,Public School,03480000
+03480225,Worcester Arts Magnet School,Public School,03480000
+03480230,Tatnuck,Public School,03480000
+03480235,Thorndyke Road,Public School,03480000
+03480240,Union Hill School,Public School,03480000
+03480260,West Tatnuck,Public School,03480000
+03480280,Vernon Hill School,Public School,03480000
+03480285,University Pk Campus School,Public School,03480000
+03480290,Worcester Academic Center for Transition (ACT),Public School,03480000
+03480350,Claremont Academy,Public School,03480000
+03480405,Burncoat Middle School,Public School,03480000
+03480415,Forest Grove Middle,Public School,03480000
+03480420,Worcester East Middle,Public School,03480000
+03480423,Sullivan Middle,Public School,03480000
+03480503,Burncoat Senior High,Public School,03480000
+03480512,Doherty Memorial High,Public School,03480000
+03480515,North High,Public School,03480000
+03480520,South High Community,Public School,03480000
+03480605,Worcester Technical High,Public School,03480000
+03490000,Worthington,Public School District,
+03490010,R. H. Conwell,Public School,03490000
+03500000,Wrentham,Public School District,
+03500003,Delaney,Public School,03500000
+03500010,Charles E Roderick,Public School,03500000
+03510000,Yarmouth (non-op),Public School District,
+03520000,Devens (non-op),Public School District,
+03530000,Southfield (non-op),Public School District,
+03700000,Institutional Schools,Public School District,
+03700012,Central Area,Public School,03700000
+03700013,West Area,Public School,03700000
+03700015,Southeast Area,Public School,03700000
+03700026,Pappas Rehabilitation Hospital for Children,Public School,03700000
+03700040,East Area,Public School,03700000
+04060000,Northampton-Smith Vocational Agricultural,Public School District,
+04060705,Smith Vocational and Agricultural High,Public School,04060000
+04070000,Dudley Street Neighborhood Charter School (District),Charter District,
+04070405,Dudley Street Neighborhood Charter School,Charter School,04070000
+04090000,Alma del Mar Charter School (District),Charter District,
+04090205,Alma del Mar Charter School,Charter School,04090000
+04100000,Excel Academy Charter (District),Charter District,
+04100205,Excel Academy Charter School,Charter School,04100000
+04110000,Boston Green Academy Horace Mann Charter School (District),Charter District,
+04110305,Boston Green Academy Horace Mann Charter School,Charter School,04110000
+04120000,Academy Of the Pacific Rim Charter Public (District),Charter District,
+04120530,Academy Of the Pacific Rim Charter Public School,Charter School,04120000
+04130000,Four Rivers Charter Public (District),Charter District,
+04130505,Four Rivers Charter Public School,Charter School,04130000
+04140000,Berkshire Arts and Technology Charter Public (District),Charter District,
+04140305,Berkshire Arts and Technology Charter Public School,Charter School,04140000
+04160000,Boston Preparatory Charter Public (District),Charter District,
+04160305,Boston Preparatory Charter Public School,Charter School,04160000
+04170000,Bridge Boston Charter School (District),Charter District,
+04170205,Bridge Boston Charter School,Charter School,04170000
+04180000,Christa McAuliffe Charter School (District),Charter District,
+04180305,Christa McAuliffe Charter School,Charter School,04180000
+04200000,Benjamin Banneker Charter Public (District),Charter District,
+04200205,Benjamin Banneker Charter Public School,Charter School,04200000
+04240000,Boston Day and Evening Academy Charter (District),Charter District,
+04240505,Boston Day and Evening Academy Charter School,Charter School,04240000
+04280000,Brooke Charter School (District),Charter District,
+04280305,Brooke Charter School,Charter School,04280000
+04290000,KIPP Academy Lynn Charter (District),Charter District,
+04290010,KIPP Academy Lynn Charter School,Charter School,04290000
+04300000,Advanced Math and Science Academy Charter (District),Charter District,
+04300305,Advanced Math and Science Academy Charter School,Charter School,04300000
+04320000,Cape Cod Lighthouse Charter (District),Charter District,
+04320530,Cape Cod Lighthouse Charter School,Charter School,04320000
+04350000,Innovation Academy Charter (District),Charter District,
+04350305,Innovation Academy Charter School,Charter School,04350000
+04360000,Community Charter School of Cambridge (District),Charter District,
+04360305,Community Charter School of Cambridge,Charter School,04360000
+04370000,City on a Hill Charter Public School (District),Charter District,
+04370505,City on a Hill Charter Public School,Charter School,04370000
+04380000,Codman Academy Charter Public (District),Charter District,
+04380505,Codman Academy Charter Public School,Charter School,04380000
+04390000,Conservatory Lab Charter (District),Charter District,
+04390050,Conservatory Lab Charter School,Charter School,04390000
+04400000,Community Day Charter Public School (District),Charter District,
+04400205,Community Day Charter Public School,Charter School,04400000
+04410000,Springfield International Charter (District),Charter District,
+04410505,Springfield International Charter School,Charter School,04410000
+04440000,Neighborhood House Charter (District),Charter District,
+04440205,Neighborhood House Charter School,Charter School,04440000
+04450000,Abby Kelley Foster Charter Public (District),Charter District,
+04450105,Abby Kelley Foster Charter Public School,Charter School,04450000
+04460000,Foxborough Regional Charter (District),Charter District,
+04460550,Foxborough Regional Charter School,Charter School,04460000
+04470000,Benjamin Franklin Classical Charter Public (District),Charter District,
+04470205,Benjamin Franklin Classical Charter Public School,Charter School,04470000
+04490000,Boston Collegiate Charter (District),Charter District,
+04490305,Boston Collegiate Charter School,Charter School,04490000
+04500000,Hilltown Cooperative Charter Public (District),Charter District,
+04500105,Hilltown Cooperative Charter Public School,Charter School,04500000
+04520000,Edward M. Kennedy Academy for Health Careers: A Horace Mann Charter Public School (District),Charter District,
+04520505,A Horace Mann Charter Public School (District): Edward M. Kennedy Academy for Health Careers: A Horace Mann Charter Public School,Charter School,04520000
+04530000,Holyoke Community Charter (District),Charter District,
+04530005,Holyoke Community Charter School,Charter School,04530000
+04540000,Lawrence Family Development Charter (District),Charter District,
+04540205,Lawrence Family Development Charter School,Charter School,04540000
+04550000,Hill View Montessori Charter Public (District),Charter District,
+04550050,Hill View Montessori Charter Public School,Charter School,04550000
+04560000,Lowell Community Charter Public (District),Charter District,
+04560050,Lowell Community Charter Public School,Charter School,04560000
+04580000,Lowell Middlesex Academy Charter (District),Charter District,
+04580505,Lowell Middlesex Academy Charter School,Charter School,04580000
+04630000,KIPP Academy Boston Charter School (District),Charter District,
+04630205,KIPP Academy Boston Charter School,Charter School,04630000
+04640000,Marblehead Community Charter Public (District),Charter District,
+04640305,Marblehead Community Charter Public School,Charter School,04640000
+04660000,Martha's Vineyard Charter Public School (District),Charter District,
+04660550,Martha's Vineyard Charter Public School,Charter School,04660000
+04680000,Ma Academy for Math and Science,Public School District,
+04680505,Ma Academy for Math and Science School,Public School,04680000
+04690000,Match Charter Public School (District),Charter District,
+04690505,Match Charter Public School,Charter School,04690000
+04700000,Mystic Valley Regional Charter (District),Charter District,
+04700105,Mystic Valley Regional Charter School,Charter School,04700000
+04740000,Sizer School: A North Central Charter Essential (District),Charter District,
+04740505,A North Central Charter Essential (District): Sizer School: A North Central Charter Essential School,Charter School,04740000
+04780000,Francis W. Parker Charter Essential (District),Charter District,
+04780505,Francis W. Parker Charter Essential School,Charter School,04780000
+04790000,Pioneer Valley Performing Arts Charter Public (District),Charter District,
+04790505,Pioneer Valley Performing Arts Charter Public School,Charter School,04790000
+04810000,Boston Renaissance Charter Public (District),Charter District,
+04810550,Boston Renaissance Charter Public School,Charter School,04810000
+04820000,River Valley Charter (District),Charter District,
+04820050,River Valley Charter School,Charter School,04820000
+04830000,Rising Tide Charter Public (District),Charter District,
+04830305,Rising Tide Charter Public School,Charter School,04830000
+04840000,Roxbury Preparatory Charter (District),Charter District,
+04840505,Roxbury Preparatory Charter School,Charter School,04840000
+04850000,Salem Academy Charter (District),Charter District,
+04850485,Salem Academy Charter School,Charter School,04850000
+04860000,Learning First Charter Public School (District),Charter District,
+04860105,Learning First Charter Public School,Charter School,04860000
+04870000,Prospect Hill Academy Charter (District),Charter District,
+04870550,Prospect Hill Academy Charter School,Charter School,04870000
+04880000,South Shore Charter Public (District),Charter District,
+04880550,South Shore Charter Public School,Charter School,04880000
+04890000,Sturgis Charter Public (District),Charter District,
+04890505,Sturgis Charter Public School,Charter School,04890000
+04910000,Atlantis Charter (District),Charter District,
+04910550,Atlantis Charter School,Charter School,04910000
+04920000,"Martin Luther King, Jr. Charter School of Excellence (District)",Charter District,
+04920005,"Martin Luther King, Jr. Charter School of Excellence",Charter School,04920000
+04930000,"Phoenix Academy Charter Public High School, Chelsea (District)",Charter District,
+04930505,"Phoenix Academy Charter Public High School, Chelsea",Charter School,04930000
+04940000,Pioneer Charter School of Science (District),Charter District,
+04940205,Pioneer Charter School of Science,Charter School,04940000
+04960000,Global Learning Charter Public (District),Charter District,
+04960305,Global Learning Charter Public School,Charter School,04960000
+04970000,Pioneer Valley Chinese Immersion Charter (District),Charter District,
+04970205,Pioneer Valley Chinese Immersion Charter School,Charter School,04970000
+04980000,Veritas Preparatory Charter School (District),Charter District,
+04980405,Veritas Preparatory Charter School,Charter School,04980000
+04990000,Hampden Charter School of Science (District),Charter District,
+04990305,Hampden Charter School of Science,Charter School,04990000
+06000000,Acton-Boxborough,Public School District,
+06000001,Carol Huebner Early Childhood Program,Public School,06000000
+06000005,Blanchard Memorial School,Public School,06000000
+06000010,Merriam School,Public School,06000000
+06000015,McCarthy-Towne School,Public School,06000000
+06000020,C.T. Douglas Elementary School,Public School,06000000
+06000025,Paul P Gates Elementary School,Public School,06000000
+06000030,Luther Conant School,Public School,06000000
+06000405,Raymond J Grey Junior High,Public School,06000000
+06000505,Acton-Boxborough Regional High,Public School,06000000
+06030000,Hoosac Valley Regional,Public School District,
+06030020,Hoosac Valley Elementary School,Public School,06030000
+06030315,Hoosac Valley Middle School,Public School,06030000
+06030505,Hoosac Valley High School,Public School,06030000
+06050000,Amherst-Pelham,Public School District,
+06050405,Amherst Regional Middle School,Public School,06050000
+06050505,Amherst Regional High,Public School,06050000
+06100000,Ashburnham-Westminster,Public School District,
+06100005,Westminster Elementary,Public School,06100000
+06100010,Meetinghouse School,Public School,06100000
+06100025,Briggs Elementary,Public School,06100000
+06100305,Overlook Middle School,Public School,06100000
+06100505,Oakmont Regional High School,Public School,06100000
+06150000,Athol-Royalston,Public School District,
+06150020,Athol Community Elementary School,Public School,06150000
+06150050,Royalston Community School,Public School,06150000
+06150305,Athol-Royalston Middle School,Public School,06150000
+06150505,Athol High,Public School,06150000
+06160000,Ayer Shirley School District,Public School District,
+06160001,Lura A. White Elementary School,Public School,06160000
+06160002,Page Hilltop Elementary School,Public School,06160000
+06160305,Ayer Shirley Regional Middle School,Public School,06160000
+06160505,Ayer Shirley Regional High School,Public School,06160000
+06180000,Berkshire Hills,Public School District,
+06180001,Mountainside Preschool,Public School,06180000
+06180035,Muddy Brook Regional Elementary School,Public School,06180000
+06180310,W.E.B. Du Bois Regional Middle School,Public School,06180000
+06180505,Monument Mt Regional High,Public School,06180000
+06200000,Berlin-Boylston,Public School District,
+06200005,Berlin Memorial School,Public School,06200000
+06200010,Boylston Elementary School,Public School,06200000
+06200505,Tahanto Regional High,Public School,06200000
+06220000,Blackstone-Millville,Public School District,
+06220008,John F Kennedy Elementary,Public School,06220000
+06220010,Millville Elementary,Public School,06220000
+06220015,A F Maloney,Public School,06220000
+06220405,Frederick W. Hartnett Middle School,Public School,06220000
+06220505,Blackstone Millville RHS,Public School,06220000
+06250000,Bridgewater-Raynham,Public School District,
+06250002,Mitchell Elementary School,Public School,06250000
+06250020,Merrill Elementary School,Public School,06250000
+06250050,Laliberte Elementary School,Public School,06250000
+06250300,Williams Intermediate School,Public School,06250000
+06250315,Raynham Middle School,Public School,06250000
+06250320,Bridgewater Middle School,Public School,06250000
+06250415,Therapeutic Day School,Public School,06250000
+06250505,Bridgewater-Raynham Regional,Public School,06250000
+06320000,Chesterfield-Goshen,Public School District,
+06320025,New Hingham Regional Elementary,Public School,06320000
+06350000,Central Berkshire,Public School District,
+06350005,Becket Washington School,Public School,06350000
+06350025,Craneville,Public School,06350000
+06350035,Kittredge,Public School,06350000
+06350305,Nessacus Regional Middle School,Public School,06350000
+06350505,Wahconah Regional High,Public School,06350000
+06400000,Concord-Carlisle,Public School District,
+06400505,Concord Carlisle High,Public School,06400000
+06450000,Dennis-Yarmouth,Public School District,
+06450005,Ezra H Baker Innovation School,Public School,06450000
+06450015,Marguerite E Small Elementary,Public School,06450000
+06450025,Station Avenue Elementary,Public School,06450000
+06450050,Dennis-Yarmouth Intermediate School,Public School,06450000
+06450305,Dennis-Yarmouth Middle School,Public School,06450000
+06450505,Dennis-Yarmouth Regional High,Public School,06450000
+06500000,Dighton-Rehoboth,Public School District,
+06500005,Dighton Elementary,Public School,06500000
+06500010,Palmer River,Public School,06500000
+06500305,Dighton Middle School,Public School,06500000
+06500310,Dorothy L Beckwith,Public School,06500000
+06500505,Dighton-Rehoboth Regional High School,Public School,06500000
+06550000,Dover-Sherborn,Public School District,
+06550405,Dover-Sherborn Regional Middle School,Public School,06550000
+06550505,Dover-Sherborn Regional High,Public School,06550000
+06580000,Dudley-Charlton Reg,Public School District,
+06580005,Dudley Elementary,Public School,06580000
+06580010,Mason Road School,Public School,06580000
+06580020,Charlton Elementary,Public School,06580000
+06580030,Heritage School,Public School,06580000
+06580305,Dudley Middle School,Public School,06580000
+06580310,Charlton Middle School,Public School,06580000
+06580505,Shepherd Hill Regional High,Public School,06580000
+06600000,Nauset,Public School District,
+06600305,Nauset Regional Middle,Public School,06600000
+06600505,Nauset Regional High,Public School,06600000
+06620000,Farmington River Reg,Public School District,
+06620020,Farmington River Elementary,Public School,06620000
+06650000,Freetown-Lakeville,Public School District,
+06650001,Freetown Elementary School,Public School,06650000
+06650002,Assawompset Elementary School,Public School,06650000
+06650015,George R Austin Intermediate School,Public School,06650000
+06650305,Freetown-Lakeville Middle School,Public School,06650000
+06650505,Apponequet Regional High,Public School,06650000
+06700000,Frontier,Public School District,
+06700505,Frontier Regional,Public School,06700000
+06720000,Gateway,Public School District,
+06720059,Chester Elementary,Public School,06720000
+06720143,Littleville Elementary School,Public School,06720000
+06720505,Gateway Regional School,Public School,06720000
+06730000,Groton-Dunstable,Public School District,
+06730001,Boutwell School,Public School,06730000
+06730005,Swallow/Union School,Public School,06730000
+06730010,Florence Roche School,Public School,06730000
+06730305,Groton Dunstable Regional Middle,Public School,06730000
+06730505,Groton Dunstable Regional,Public School,06730000
+06740000,Gill-Montague,Public School District,
+06740005,Gill Elementary,Public School,06740000
+06740015,Hillcrest Elementary School,Public School,06740000
+06740050,Sheffield Elementary School,Public School,06740000
+06740310,Great Falls Middle,Public School,06740000
+06740505,Turners Fall High,Public School,06740000
+06750000,Hamilton-Wenham,Public School District,
+06750007,Bessie Buker Elementary,Public School,06750000
+06750010,Cutler School,Public School,06750000
+06750015,Winthrop School,Public School,06750000
+06750310,Miles River Middle,Public School,06750000
+06750505,Hamilton-Wenham Regional High,Public School,06750000
+06800000,Hampden-Wilbraham,Public School District,
+06800005,Green Meadows Elementary,Public School,06800000
+06800025,Mile Tree Elementary,Public School,06800000
+06800030,Soule Road,Public School,06800000
+06800050,Stony Hill School,Public School,06800000
+06800310,Wilbraham Middle,Public School,06800000
+06800505,Minnechaug Regional High,Public School,06800000
+06830000,Hampshire,Public School District,
+06830505,Hampshire Regional High,Public School,06830000
+06850000,Hawlemont,Public School District,
+06850005,Hawlemont Regional,Public School,06850000
+06900000,King Philip,Public School District,
+06900505,King Philip Regional High,Public School,06900000
+06900510,King Philip Middle School,Public School,06900000
+06950000,Lincoln-Sudbury,Public School District,
+06950505,Lincoln-Sudbury Regional High,Public School,06950000
+06980000,Manchester Essex Regional,Public School District,
+06980010,Manchester Memorial Elementary,Public School,06980000
+06980020,Essex Elementary,Public School,06980000
+06980030,Manchester Essex Regional Middle School,Public School,06980000
+06980510,Manchester Essex Regional High School,Public School,06980000
+07000000,Martha's Vineyard,Public School District,
+07000505,Martha's Vineyard Regional High,Public School,07000000
+07050000,Masconomet,Public School District,
+07050405,Masconomet Regional Middle School,Public School,07050000
+07050505,Masconomet Regional High School,Public School,07050000
+07100000,Mendon-Upton,Public School District,
+07100001,Memorial School,Public School,07100000
+07100015,Miscoe Hill School,Public School,07100000
+07100179,Henry P Clough,Public School,07100000
+07100510,Nipmuc Regional High,Public School,07100000
+07120000,Monomoy Regional School District,Public School District,
+07120001,Chatham Elementary School,Public School,07120000
+07120002,Harwich Elementary School,Public School,07120000
+07120315,Monomoy Regional Middle School,Public School,07120000
+07120515,Monomoy Regional High School,Public School,07120000
+07150000,Mount Greylock,Public School District,
+07150005,Lanesborough Elementary,Public School,07150000
+07150010,Williamstown Elementary,Public School,07150000
+07150505,Mt Greylock Regional High,Public School,07150000
+07170000,Mohawk Trail,Public School District,
+07170005,Buckland-Shelburne Regional,Public School,07170000
+07170010,Colrain Central,Public School,07170000
+07170020,Sanderson Academy,Public School,07170000
+07170505,Mohawk Trail Regional School,Public School,07170000
+07200000,Narragansett,Public School District,
+07200020,Templeton Elementary School,Public School,07200000
+07200305,Narragansett Middle,Public School,07200000
+07200505,Narragansett Regional High,Public School,07200000
+07250000,Nashoba,Public School District,
+07250010,Mary Rowlandson Elementary,Public School,07250000
+07250020,Center School,Public School,07250000
+07250025,Florence Sawyer School,Public School,07250000
+07250305,Luther Burbank Middle School,Public School,07250000
+07250310,Hale,Public School,07250000
+07250505,Nashoba Regional,Public School,07250000
+07280000,New Salem-Wendell,Public School District,
+07280015,Swift River,Public School,07280000
+07300000,Northboro-Southboro,Public School District,
+07300505,Algonquin Regional High,Public School,07300000
+07350000,North Middlesex,Public School District,
+07350002,Squannacook Early Childhood Center,Public School,07350000
+07350005,Spaulding Memorial,Public School,07350000
+07350010,Ashby Elementary,Public School,07350000
+07350030,Hawthorne Brook,Public School,07350000
+07350035,Varnum Brook,Public School,07350000
+07350310,Nissitissit Middle School,Public School,07350000
+07350505,North Middlesex Regional,Public School,07350000
+07400000,Old Rochester,Public School District,
+07400405,Old Rochester Regional Jr High,Public School,07400000
+07400505,Old Rochester Regional High,Public School,07400000
+07450000,Pentucket,Public School District,
+07450005,Elmer S Bagnall,Public School,07450000
+07450010,Helen R Donaghue School,Public School,07450000
+07450015,Dr John C Page School,Public School,07450000
+07450020,Dr Frederick N Sweetsir,Public School,07450000
+07450405,Pentucket Regional Middle,Public School,07450000
+07450505,Pentucket Regional Sr High,Public School,07450000
+07500000,Pioneer Valley,Public School District,
+07500006,Bernardston Elementary,Public School,07500000
+07500008,Northfield Elementary,Public School,07500000
+07500505,Pioneer Valley Regional,Public School,07500000
+07530000,Quabbin,Public School District,
+07530005,Hardwick Elementary,Public School,07530000
+07530010,Hubbardston Center,Public School,07530000
+07530020,New Braintree Grade,Public School,07530000
+07530025,Oakham Center,Public School,07530000
+07530030,Ruggles Lane,Public School,07530000
+07530405,Quabbin Regional Middle School,Public School,07530000
+07530505,Quabbin Regional High School,Public School,07530000
+07550000,Ralph C Mahar,Public School District,
+07550505,Ralph C Mahar Regional,Public School,07550000
+07600000,Silver Lake,Public School District,
+07600001,Silver Lake Integrated Preschool,Public School,07600000
+07600405,Silver Lake Regional Middle School,Public School,07600000
+07600505,Silver Lake Regional High,Public School,07600000
+07630000,Somerset Berkley Regional School District,Public School District,
+07630505,Somerset Berkley Regional High School,Public School,07630000
+07650000,Southern Berkshire,Public School District,
+07650018,New Marlborough Central,Public School,07650000
+07650030,South Egremont,Public School,07650000
+07650035,Undermountain,Public School,07650000
+07650505,Mt Everett Regional,Public School,07650000
+07660000,Southwick-Tolland-Granville Regional School District,Public School District,
+07660010,Woodland School,Public School,07660000
+07660315,Powder Mill School,Public School,07660000
+07660505,Southwick Regional School,Public School,07660000
+07670000,Spencer-E Brookfield,Public School District,
+07670008,East Brookfield Elementary,Public School,07670000
+07670040,Wire Village School,Public School,07670000
+07670415,Knox Trail Middle School,Public School,07670000
+07670505,David Prouty High,Public School,07670000
+07700000,Tantasqua,Public School District,
+07700405,Tantasqua Regional Jr High,Public School,07700000
+07700505,Tantasqua Regional Sr High,Public School,07700000
+07700605,Tantasqua Regional Vocational,Public School,07700000
+07730000,Triton,Public School District,
+07730015,Salisbury Elementary,Public School,07730000
+07730020,Newbury Elementary,Public School,07730000
+07730025,Pine Grove,Public School,07730000
+07730405,Triton Regional Middle School,Public School,07730000
+07730505,Triton Regional High School,Public School,07730000
+07740000,Up-Island Regional,Public School District,
+07740010,Chilmark Elementary,Public School,07740000
+07740020,West Tisbury Elementary,Public School,07740000
+07750000,Wachusett,Public School District,
+07750001,Early Childhood Center,Public School,07750000
+07750005,Naquag Elementary School,Public School,07750000
+07750018,Davis Hill Elementary,Public School,07750000
+07750020,Dawson,Public School,07750000
+07750027,Houghton Elementary,Public School,07750000
+07750032,Leroy E.Mayo,Public School,07750000
+07750040,Paxton Center,Public School,07750000
+07750045,Thomas Prince,Public School,07750000
+07750060,Glenwood Elementary School,Public School,07750000
+07750305,Mountview Middle,Public School,07750000
+07750310,Central Tree Middle,Public School,07750000
+07750315,Chocksett Middle School,Public School,07750000
+07750505,Wachusett Regional High,Public School,07750000
+07780000,Quaboag Regional,Public School District,
+07780001,Quaboag Integrated Preschool,Public School,07780000
+07780005,Warren Elementary,Public School,07780000
+07780010,West Brookfield Elementary,Public School,07780000
+07780305,Quaboag Regional Middle Innovation School,Public School,07780000
+07780505,Quaboag Regional High,Public School,07780000
+07800000,Whitman-Hanson,Public School District,
+07800001,The Pre-School Academy at Whitman Hanson,Public School,07800000
+07800010,Louise A Conley,Public School,07800000
+07800030,John H Duval,Public School,07800000
+07800035,Indian Head,Public School,07800000
+07800310,Whitman Middle,Public School,07800000
+07800315,Hanson Middle School,Public School,07800000
+07800505,Whitman Hanson Regional,Public School,07800000
+08010000,Assabet Valley Regional Vocational Technical,Public School District,
+08010605,Assabet Valley Vocational High School,Public School,08010000
+08050000,Blackstone Valley Regional Vocational Technical,Public School District,
+08050605,Blackstone Valley,Public School,08050000
+08060000,Blue Hills Regional Vocational Technical,Public School District,
+08060605,Blue Hills Regional Vocational Technical,Public School,08060000
+08100000,Bristol-Plymouth Regional Vocational Technical,Public School District,
+08100605,Bristol-Plymouth Vocational Technical,Public School,08100000
+08150000,Cape Cod Regional Vocational Technical,Public School District,
+08150605,Cape Cod Region Vocational Technical,Public School,08150000
+08170000,Essex North Shore Agricultural and Technical School District,Public School District,
+08170505,Essex North Shore Agricultural and Technical School,Public School,08170000
+08180000,Franklin County Regional Vocational Technical,Public School District,
+08180605,Franklin County Technical,Public School,08180000
+08210000,Greater Fall River Regional Vocational Technical,Public School District,
+08210605,Diman Regional Vocational Technical High,Public School,08210000
+08230000,Greater Lawrence Regional Vocational Technical,Public School District,
+08230605,Gr Lawrence Regional Vocational Technical,Public School,08230000
+08250000,Greater New Bedford Regional Vocational Technical,Public School District,
+08250605,Gr New Bedford Vocational Technical,Public School,08250000
+08280000,Greater Lowell Regional Vocational Technical,Public School District,
+08280605,Gr Lowell Regional Vocational Technical,Public School,08280000
+08290000,South Middlesex Regional Vocational Technical,Public School District,
+08290605,Joseph P Keefe Technical High School,Public School,08290000
+08300000,Minuteman Regional Vocational Technical,Public School District,
+08300605,Minuteman Regional High,Public School,08300000
+08320000,Montachusett Regional Vocational Technical,Public School District,
+08320605,Montachusett Regional Vocational Technical,Public School,08320000
+08510000,Northern Berkshire Regional Vocational Technical,Public School District,
+08510605,Charles McCann Vocational Technical,Public School,08510000
+08520000,Nashoba Valley Regional Vocational Technical,Public School District,
+08520605,Nashoba Valley Technical High School,Public School,08520000
+08530000,Northeast Metropolitan Regional Vocational Technical,Public School District,
+08530605,Northeast Metro Regional Vocational,Public School,08530000
+08550000,Old Colony Regional Vocational Technical,Public School District,
+08550605,Old Colony Regional Vocational Technical,Public School,08550000
+08600000,Pathfinder Regional Vocational Technical,Public School District,
+08600605,Pathfinder Vocational Technical,Public School,08600000
+08710000,Shawsheen Valley Regional Vocational Technical,Public School District,
+08710605,Shawsheen Valley Vocational Technical High School,Public School,08710000
+08720000,Southeastern Regional Vocational Technical,Public School District,
+08720605,Southeastern Regional Vocational Technical,Public School,08720000
+08730000,South Shore Regional Vocational Technical,Public School District,
+08730605,South Shore Vocational Technical High,Public School,08730000
+08760000,Southern Worcester County Regional Vocational School District,Public School District,
+08760605,Bay Path Regional Vocational Technical High School,Public School,08760000
+08780000,Tri-County Regional Vocational Technical,Public School District,
+08780605,Tri-County Regional Vocational Technical,Public School,08780000
+08790000,Upper Cape Cod Regional Vocational Technical,Public School District,
+08790605,Upper Cape Cod Vocational Technical,Public School,08790000
+08850000,Whittier Regional Vocational Technical,Public School District,
+08850605,Whittier Regional Vocational,Public School,08850000
+09100000,Bristol County Agricultural,Public School District,
+09100705,Bristol County Agricultural High,Public School,09100000
+09150000,Norfolk County Agricultural,Public School District,
+09150705,Norfolk County Agricultural,Public School,09150000
+35020000,Baystate Academy Charter Public School (District),Charter District,
+35020405,Baystate Academy Charter Public School,Charter School,35020000
+35030000,Collegiate Charter School of Lowell (District),Charter District,
+35030205,Collegiate Charter School of Lowell,Charter School,35030000
+35050000,UP Academy Charter School of Dorchester (District),Charter District,
+35050405,UP Academy Charter School of Dorchester,Charter School,35050000
+35060000,Pioneer Charter School of Science II (District),Charter District,
+35060505,Pioneer Charter School of Science II,Charter School,35060000
+35080000,"Phoenix Academy Public Charter High School, Springfield (District)",Charter District,
+35080505,"Phoenix Academy Public Charter High School, Springfield",Charter School,35080000
+35090000,Argosy Collegiate Charter School (District),Charter District,
+35090305,Argosy Collegiate Charter School,Charter School,35090000
+35100000,Springfield Preparatory Charter School (District),Charter District,
+35100205,Springfield Preparatory Charter School,Charter School,35100000
+35130000,New Heights Charter School of Brockton (District),Charter District,
+35130305,New Heights Charter School of Brockton,Charter School,35130000
+35140000,Libertas Academy Charter School (District),Charter District,
+35140305,Libertas Academy Charter School,Charter School,35140000
+35150000,Old Sturbridge Academy Charter Public School (District),Charter District,
+35150205,Old Sturbridge Academy Charter Public School,Charter School,35150000
+35170000,Map Academy Charter School (District),Charter District,
+35170505,Map Academy Charter School,Charter School,35170000
+35180000,"Phoenix Academy Public Charter High School, Lawrence (District)",Charter District,
+35180505,"Phoenix Academy Public Charter High School, Lawrence",Charter School,35180000
+35190000,Worcester Cultural Academy Charter Public School (District),Charter District,
+35190205,Worcester Cultural Academy Charter Public School,Charter School,35190000
+39010000,Greater Commonwealth Virtual District,Public School District,
+39010900,Greater Commonwealth Virtual School,Public School,39010000
+39020000,TEC Connections Academy Commonwealth Virtual School District,Public School District,
+39020900,TEC Connections Academy Commonwealth Virtual School,Public School,39020000
