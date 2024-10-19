@@ -28,7 +28,7 @@ def decompose_school(soup):
 if __name__ == "__main__":
 
     # Reads html file
-    with open(r"testing\mass\files\public_school_districts.html", "r") as f:
+    with open("files\\public_school_districts.html", "r") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
     # Finds newblubs
     newblubgs = soup.find_all("td", class_="newblubg right")
@@ -36,7 +36,7 @@ if __name__ == "__main__":
     districts = list(map(decompose_district, trs)) 
 
     # Reads html file
-    with open(r"testing\mass\files\public_schools.html", "r") as f:
+    with open("files\\public_schools.html", "r") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
     # Finds newblubs
     newblubgs = soup.find_all("td", class_="newblubg right")
